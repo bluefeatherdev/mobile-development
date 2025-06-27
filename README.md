@@ -10,10 +10,11 @@ Este repositorio funciona como un **vault de Obsidian**, donde organizo mis nota
 - Android & iOS
 - Desarrollo Nativo vs Multiplataforma
 - UI/UX para móviles
-- Roadmaps, tipos de apps y más..
+- Roadmaps, tipos de apps y más...
 
 El objetivo es construir, poco a poco, un segundo cerebro técnico para crecer como desarrollador mobile.
 
-> 💡 _Este repositorio es privado y está en constante evolución. Las notas están en construcción._
+> [!IMPORTANT]
+>  Este repositorio está en constante evolución. Las notas están en construcción.
 
 > Hello World! '\u{2665}'
