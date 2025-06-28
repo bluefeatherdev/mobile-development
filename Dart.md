@@ -3,7 +3,7 @@
 **Lenguaje de programación desarrollado por Google**, optimizado para el desarrollo de aplicaciones frontend, especialmente móviles con [[Flutter]].
 #### Características principales
 
-- Sintaxis clara y familiar (inspirada en Java/C#).
+- Sintaxis clara y familiar (inspirada en [[Java]]/C#).
 - Orientado a objetos.
 - Soporte para tipado estático y dinámico.
 - Compilación Just-In-Time (JIT) para desarrollo y Ahead-Of-Time (AOT) para producción.

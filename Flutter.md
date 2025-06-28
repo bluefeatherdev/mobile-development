@@ -5,7 +5,7 @@
 
 - Usa el lenguaje [[Dart]].
 - Permite desarrollar para **[[Android]]**, **[[iOS]]**, **Web**, **Desktop** y **Embedded**.
-- Motor gráfico propio (Skia), no depende de componentes nativos del sistema.
+- Motor gráfico propio ([[Skia]]), no depende de componentes nativos del sistema.
 - Hot Reload para desarrollo rápido.
 - Amplio ecosistema de widgets personalizables.
 #### Usos principales
@@ -22,6 +22,6 @@
 
 - `provider`, `riverpod`, `bloc` (gestión de estado)
 - `http`, `dio` (peticiones web)
-- `flutterfire` (Firebase + Flutter)
+- `flutterfire` ([[Firebase]] + Flutter)
 
 > Hello World! '\u{2665}'
