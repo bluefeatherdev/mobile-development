@@ -63,4 +63,8 @@ Enfocadas en funciones o industrias específicas. Ejemplos:
 - Apps empresariales
 - Apps educativas
 
+#### Notas relacionadas
+
+- [[Desarrollo Móvil]]
+
 > Hello World! '\u{2665}'

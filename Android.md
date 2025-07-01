@@ -25,4 +25,9 @@
 - Permisos y manifest
 - [[Jetpack]]: conjunto de librerías modernas (Navigation, ViewModel, Compose, etc.)
 
+#### Notas relacionadas
+
+- [[Desarrollo Móvil]]
+- [[Kotlin]]
+
 > Hello World! '\u{2665}'

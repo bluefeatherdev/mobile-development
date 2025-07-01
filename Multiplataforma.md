@@ -41,4 +41,8 @@ En el desarrollo móvil, el enfoque **multiplataforma** permite crear aplicacion
 - Si el equipo es pequeño y necesita mantener una sola base de código.
 - Cuando la app no necesita características muy específicas del sistema operativo.
 
+#### Notas relacionadas
+
+- [[Desarrollo Móvil]]
+
 > Hello World! '\u{2665}'

@@ -24,4 +24,8 @@
 - `http`, `dio` (peticiones web)
 - `flutterfire` ([[Firebase]] + Flutter)
 
+#### Notas relacionadas
+
+- [[Desarrollo Móvil]]
+
 > Hello World! '\u{2665}'

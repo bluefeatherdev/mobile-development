@@ -18,5 +18,8 @@
 - `dart` CLI.
 - DartPad ([https://dartpad.dev/](https://dartpad.dev/)).
 - VSCode o [[Android Studio]] con extensiones de Dart.
+#### Notas relacionadas
+
+- [[Desarrollo Móvil]]
 
 > Hello World! '\u{2665}'

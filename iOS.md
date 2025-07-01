@@ -28,4 +28,8 @@
 - Certificados y perfiles de desarrollo.
 - Revisión estricta para publicación en la [[App Store]].
 
+#### Notas relacionadas
+
+- [[Desarrollo Móvil]]
+
 > Hello World! '\u{2665}'

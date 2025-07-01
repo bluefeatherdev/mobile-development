@@ -27,4 +27,8 @@ El **desarrollo nativo** consiste en crear aplicaciones específicas para una pl
 - Mayor tiempo y costo de desarrollo (dos equipos o más trabajo).
 - Requiere conocimientos específicos de cada plataforma.
 
+#### Notas relacionadas
+
+- [[Desarrollo Móvil]]
+
 > Hello World! '\u{2665}'

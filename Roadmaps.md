@@ -46,4 +46,8 @@ Ver también: [[iOS]]
 
 Ver también: [[UI-UX]]
 
+#### Notas relacionadas
+
+- [[Desarrollo Móvil]]
+
 > Hello World! '\u{2665}'

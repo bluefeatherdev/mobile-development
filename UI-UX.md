@@ -44,4 +44,8 @@ Se enfoca en **cómo se siente** usar una app:
 - [[Material Design]] (Google) y [[Apple HIG]] (iOS).
 - Test de usabilidad y encuestas de feedback.
 
+#### Notas relacionadas
+
+- [[Desarrollo Móvil]]
+
 > Hello World! '\u{2665}'
