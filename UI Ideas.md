@@ -2,7 +2,7 @@
 
 ## Para ventanas o capturas de pantalla 
 
-- Usar sombras
+- Usar sombras en los bordes
 - Eliminar distractores e información no pertinente
 - Ocultar información confidencial
 
