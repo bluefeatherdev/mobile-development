@@ -1,6 +1,6 @@
 # Hello, Mobile Development!
 
-![Made with Obsidian](https://img.shields.io/badge/Made%20with-Obsidian-7e57c2?logo=obsidian&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Made_with-Obsidian-%237C3AED?style=for-the-badge&logo=Dart)
 
 Un espacio personal de aprendizaje y exploración sobre **desarrollo móvil**.
 
