@@ -1,4 +1,4 @@
-# Fazt: Desarrollo de Aplicaciones móviles en 2024
+# Desarrollo de Aplicaciones móviles en 2024
 
 El video presenta una guía completa para quienes desean iniciarse en el desarrollo de aplicaciones móviles en 2024. Explica las dos grandes categorías para crear apps: desarrollo nativo y desarrollo multiplataforma (Cross platform). 
 
