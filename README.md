@@ -1,6 +1,6 @@
 # Hello, Mobile Development!
 
-![Static Badge](https://img.shields.io/badge/Made_with-Obsidian-%237C3AED?style=for-the-badge&logo=Obsidian)
+![Static Badge](https://img.shields.io/badge/notes-obsidian-7C3AED?style=for-the-badge&logo=obsidian&labelColor=101010)
 
 Un espacio personal de aprendizaje y exploración sobre **desarrollo móvil**.
 
