@@ -5,6 +5,8 @@
 
 Un espacio personal de aprendizaje y exploración sobre **desarrollo móvil**.
 
+## ⚙️ Cómo funciona
+
 Este repositorio funciona como un **vault de Obsidian**, donde organizo mis notas, ideas y recursos sobre temas como:
 
 - Flutter & Dart
@@ -13,9 +15,10 @@ Este repositorio funciona como un **vault de Obsidian**, donde organizo mis nota
 - UI/UX para móviles
 - Roadmaps, tipos de apps y más...
 
+## 🎯 Objetivo del repositorio
+
 El objetivo es construir, poco a poco, un segundo cerebro técnico para crecer como desarrollador mobile.
 
 > [!IMPORTANT]
 >  Este repositorio está en constante evolución. Las notas están en construcción.
-
-> Hello World! '\u{2665}'
+>> Hello World! '\u{2665}'
