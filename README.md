@@ -17,9 +17,9 @@ Este repositorio funciona como un **vault de Obsidian**, donde organizo mis nota
 
 ## 🎯 Objetivo del repositorio
 
-- Construir un segundo cerebro técnico  sobre le desarrollo móvil.
-- Elaborar un mapa útil para una visión clara del área de estudio.
-- Definir términos y palabras claves del vocabulario de desarrollo de apps.
+- Construir un segundo cerebro técnico  sobre le desarrollo móvil
+- Elaborar un mapa útil para una visión clara del área de estudio
+- Definir términos y palabras claves del vocabulario de desarrollo de apps
 
 > [!IMPORTANT]
 >  Este repositorio está en constante evolución. Las notas están en construcción.
