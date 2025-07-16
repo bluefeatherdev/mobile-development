@@ -12,14 +12,16 @@ Un espacio personal de aprendizaje y exploración sobre **desarrollo móvil** An
 Este repositorio funciona como un **vault de Obsidian**, donde organizo mis notas, ideas y recursos sobre temas como:
 
 - Flutter & Dart
+  
 - Android & iOS
 - Desarrollo Nativo vs Multiplataforma
 - UI/UX para móviles
 - Roadmaps, tipos de apps y más...
 
-## 🎯 Objetivo del repositorio
+## 🎯 Objetivos del repositorio
 
 - Construir un segundo cerebro técnico  sobre le desarrollo móvil
+  
 - Elaborar un mapa útil para una visión clara del área de estudio
 - Definir términos y palabras claves del vocabulario de desarrollo de apps
 
