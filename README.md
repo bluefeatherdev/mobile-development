@@ -5,6 +5,8 @@
 
 Un espacio personal de aprendizaje y exploración sobre **desarrollo móvil** Android y iOS.
 
+![](./images/header.png)
+
 > Este repositorio está en constante evolución. Las notas están en construcción.
 
 ## ⚙️ Cómo funciona
