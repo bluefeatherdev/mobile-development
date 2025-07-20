@@ -20,6 +20,25 @@ Este repositorio funciona como un **vault de Obsidian**, donde organizo mis nota
 - UI/UX para móviles
 - Roadmaps, tipos de apps y más...
 
+## 📁 Estructura del repositorio
+
+Las notas están organizadas en carpetas temáticas para facilitar su exploración:
+
+| Carpeta       | Contenido                                                              |
+|--------------|-------------------------------------------------------------------------|
+| `overview`    | Introducciones generales, notas de visión, objetivos y contexto.       |
+| `languages`   | Conceptos y prácticas sobre lenguajes como Dart, Kotlin o Swift.       |
+| `frameworks`  | Frameworks móviles como Flutter, React Native y otros.                 |
+| `backend`     | Notas sobre bases de datos, APIs, autenticación y servicios backend.   |
+| `os`          | Sistemas operativos móviles, ciclo de vida, arquitectura, etc.         |
+| `database`    | Tipos de bases de datos, consultas y herramientas como Firebase, etc.  |
+| `roadmaps`    | Mapas de ruta de aprendizaje, guías y caminos sugeridos.               |
+| `setup`       | Configuración de entorno, instalación de herramientas, etc.            |
+| `tools`       | Utilidades, extensiones, paquetes y recursos útiles.                   |
+| `ui-ux`       | Principios de diseño, patrones UI, usabilidad y accesibilidad.         |
+
+> Cada carpeta contiene archivos Markdown (`.md`) con notas conectadas a través de enlaces internos.
+
 ## 🎯 Objetivos del repositorio
 
 - Construir un segundo cerebro técnico  sobre le desarrollo móvil
