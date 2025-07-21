@@ -46,4 +46,4 @@ Cada carpeta contiene archivos Markdown (`.md`) con notas conectadas a través d
 - Elaborar un mapa útil para una visión clara del área de estudio
 - Definir términos y palabras claves del vocabulario de desarrollo de apps
 
-> Hello World! '\u{2665}'
+> Made with '\u{2665}' (♥)
