@@ -1,33 +1,77 @@
-# Hello, Android!
+# Android
 
 **Sistema operativo móvil desarrollado por Google**, basado en Linux y diseñado para dispositivos con pantalla táctil como smartphones, tablets, relojes y más.
 
-#### Características principales
 
-- Código abierto (basado en [[AOSP]] - Android Open Source Project).
-- Dominante en el mercado global de móviles.
-- Personalizable por fabricantes (Samsung, Xiaomi, etc.).
-- Desarrollo de apps con **[[Kotlin]]** (recomendado) o **[[Java]]**.
-- Compatible con desarrollo **[[nativo]]** y **[[multiplataforma]]** ([[Flutter]], [[React Native]], etc.).
+## ⚙️ Características principales
 
-#### Herramientas comunes
+- Código abierto (basado en AOSP - Android Open Source Project).  
 
-- **[[Android Studio]]** (IDE oficial)
-- **Emulador de Android**
-- **ADB** ([[Android Debug Bridge]])
-- **[[Android SDK & NDK]]**
+- Dominante en el mercado global de móviles.  
 
-#### Componentes clave
+- Personalizable por fabricantes (Samsung, Xiaomi, etc.).  
 
-- Activities, Fragments, Intents
-- Layouts XML
-- Ciclo de vida de una app
-- Permisos y manifest
-- [[Jetpack]]: conjunto de librerías modernas (Navigation, ViewModel, Compose, etc.)
+- Desarrollo de apps con **Kotlin** (recomendado) o **Java**.  
 
-#### Notas relacionadas
+- Compatible con desarrollo **Nativo** y **Multiplataforma** (Flutter, React Native, etc.).  
 
-- [[Desarrollo Móvil]]
-- [[Kotlin]]
 
-> Hello World! '\u{2665}'
+## 🛠️ Herramientas comunes
+
+- **Android Studio** (IDE oficial)  
+
+- **Emulador de Android**  
+
+- **ADB** (Android Debug Bridge)  
+
+- **Android SDK NDK**  
+
+
+## 🧩 Componentes clave
+
+- Activities, Fragments, Intents  
+
+- Layouts XML  
+
+- Ciclo de vida de una app  
+
+- Permisos y manifest  
+
+- Jetpack: conjunto de librerías modernas (Navigation, ViewModel, Compose, etc.)  
+
+
+## ✅ Ventajas
+
+- Gran cuota de mercado y comunidad activa.  
+
+- Flexible y adaptable para múltiples dispositivos.  
+
+- Amplio soporte de herramientas y librerías.  
+
+- Permite personalización profunda del sistema y la interfaz.  
+
+
+## ⚠️ Desventajas
+
+- Alta fragmentación entre versiones y dispositivos.  
+
+- Mayor trabajo de optimización y testing en diferentes fabricantes.  
+
+- Proceso de publicación más lento y menos controlado que en iOS.  
+
+
+## 🌐 Recursos recomendados
+
+- [developer.android.com](https://developer.android.com/) → Documentación oficial.  
+- [Android Open Source Project (AOSP)](https://source.android.com/)  
+- [Android Developers Blog](https://android-developers.googleblog.com/)  
+- Curso oficial en [developer.android.com/courses](https://developer.android.com/courses)  
+
+## 🔗 Notas relacionadas
+
+- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)
+  
+- [[kotlin]] → [kotlin.md](kotlin.md)
+- [[java]] → [java.md](kotlin.md)   
+
+> Made with '\u{2665}' (♥)
