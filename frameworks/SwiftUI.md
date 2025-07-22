@@ -1,59 +1,56 @@
 # SwiftUI
 
-**SwiftUI** es un framework declarativo creado por **Apple** para construir interfaces de usuario en **iOS, macOS, watchOS y tvOS** usando el lenguaje [[Swift]]. Fue presentado en 2019 y está diseñado para facilitar la creación de interfaces reactivas, modernas y adaptables.
-#### Características principales
+**SwiftUI** es un framework declarativo creado por **Apple** para construir interfaces de usuario en **iOS, macOS, watchOS y tvOS** usando el lenguaje Swift. Fue presentado en 2019 y está diseñado para facilitar la creación de interfaces reactivas, modernas y adaptables.
 
-- Sintaxis declarativa: defines lo que quieres ver, no cómo.
-    
-- Totalmente integrado con Swift y Xcode.
-    
-- Compatible con todas las plataformas Apple desde iOS 13+.
-    
-- Soporte para modo oscuro, accesibilidad, localización y más, con mínimo esfuerzo.
-    
-- Se actualiza constantemente con cada versión de iOS.
+## ⚙️ Características principales
 
-#### Ventajas
+- Sintaxis declarativa: defines lo que quieres ver, no cómo.  
+  
+- Totalmente integrado con Swift y Xcode.  
+  
+- Compatible con todas las plataformas Apple desde iOS 13+.  
+  
+- Soporte para modo oscuro, accesibilidad, localización y más, con mínimo esfuerzo.  
+  
+- Se actualiza constantemente con cada versión de iOS.  
 
-- Código más limpio y conciso que UIKit.
-    
-- UI reactiva: se actualiza automáticamente cuando cambian los datos.
-    
-- Se integra con Combine para manejar estados y eventos.
-    
-- Vista previa en tiempo real en Xcode (Canvas).
-    
+## ✅ Ventajas
 
-#### Desventajas
+- Código más limpio y conciso que UIKit.  
+  
+- UI reactiva: se actualiza automáticamente cuando cambian los datos.  
+  
+- Se integra con Combine para manejar estados y eventos.  
+  
+- Vista previa en tiempo real en Xcode (Canvas).  
 
-- Requiere iOS 13 o superior.
-    
-- Algunas limitaciones en versiones antiguas.
-    
-- Documentación en crecimiento (aunque mejora con cada versión).
-    
-- Aún se utiliza [[UIKit]] en proyectos complejos o legados.
-    
-#### Recursos recomendados
+## ⚠️ Desventajas
 
-- [Documentación oficial de SwiftUI](https://developer.apple.com/xcode/swiftui/)
-    
-- Hacking with Swift – SwiftUI
-    
-- SwiftUI by Example
-    
-- [SwiftUI Tutorials (Apple)](https://developer.apple.com/tutorials/swiftui)
-    
-#### Relacionado
+- Requiere iOS 13 o superior.  
+  
+- Algunas limitaciones en versiones antiguas.  
+  
+- Documentación en crecimiento (aunque mejora con cada versión).  
+  
+- Aún se utiliza `uikit` en proyectos complejos o legados.  
 
-- [[Swift]]
-    
-- [[iOS]]
-    
-- [[UI-UX]]
-    
-- [[Frameworks]]
-    
-- [[UIKit]]
+## 🌐 Recursos recomendados
 
-> Hello World! '\u{2665}'
+- [Documentación oficial de SwiftUI](https://developer.apple.com/xcode/swiftui/)  
+  
+- Hacking with Swift – SwiftUI  
+  
+- SwiftUI by Example  
+  
+- [SwiftUI Tutorials (Apple)](https://developer.apple.com/tutorials/swiftui)  
+
+## 🔗 Notas relacionadas
+
+- [[swift]] → [swift.md](swift.md)  
+
+- [[ios]] → [ios.md](ios.md)  
+- [[ui_ux]] → [ui_ux.md](ui_ux.md)  
+- [[frameworks]] → [frameworks.md](frameworks.md)  
+- [[uikit]] → [uikit.md](uikit.md)  
+
+> Made with '\u{2665}' (♥)

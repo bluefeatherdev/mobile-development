@@ -1,31 +1,52 @@
-# Hello, Flutter!
+# Flutter!
 
 **Framework UI open-source desarrollado por Google** para crear aplicaciones nativas multiplataforma desde una sola base de código.
-#### Características principales
 
-- Usa el lenguaje [[Dart]].
-- Permite desarrollar para **[[Android]]**, **[[iOS]]**, **Web**, **Desktop** y **Embedded**.
-- Motor gráfico propio ([[Skia]]), no depende de componentes nativos del sistema.
-- Hot Reload para desarrollo rápido.
-- Amplio ecosistema de widgets personalizables.
-#### Usos principales
+## 🥇 Características principales
 
-- Aplicaciones móviles multiplataforma.
-- Aplicaciones web y de escritorio.
-- Prototipos interactivos.
-#### Herramientas útiles
+- Usa el lenguaje dart  
+  
+- Permite desarrollar para **android**, **ios**, **Web**, **Desktop** y **Embedded**  
+  
+- Motor gráfico propio (skia), no depende de componentes nativos del sistema  
+  
+- Hot Reload para desarrollo rápido  
+  
+- Amplio ecosistema de widgets personalizables  
+  
 
-- `flutter` CLI.
-- Flutter DevTools.
-- VSCode o [[Android Studio]] con extensiones de Flutter.
-#### Paquetes populares
+## 🚀 Usos principales
 
-- `provider`, `riverpod`, `bloc` (gestión de estado)
-- `http`, `dio` (peticiones web)
-- `flutterfire` ([[Firebase]] + Flutter)
+- Aplicaciones móviles multiplataforma  
+  
+- Aplicaciones web y de escritorio  
+  
+- Prototipos interactivos  
+  
 
-#### Notas relacionadas
+## 🛠️ Herramientas útiles
 
-- [[Desarrollo Móvil]]
+- `flutter` CLI  
+  
+- Flutter DevTools  
+  
+- VSCode o Android Studio con extensiones de Flutter  
 
-> Hello World! '\u{2665}'
+
+## 📦 Paquetes populares
+
+- `provider`, `riverpod`, `bloc` (gestión de estado)  
+  
+- `http`, `dio` (peticiones web)  
+  
+- `flutterfire` (Firebase + Flutter)  
+  
+
+## 🔗 Notas relacionadas
+
+- [[dart]] → [dart.md](dart.md) 
+ 
+- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md) 
+
+> Made with '\u{2665}' (♥)
