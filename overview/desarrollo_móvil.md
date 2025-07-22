@@ -1,38 +1,62 @@
 # Desarrollo Móvil
 
-El **desarrollo móvil** consiste en la creación de aplicaciones diseñadas para ejecutarse en dispositivos móviles como **smartphones** y **tablets**, ya sea en plataformas como **[[Android]]** o **[[iOS]]**.
-## Enfoques principales
+El **desarrollo móvil** consiste en la creación de aplicaciones diseñadas para ejecutarse en dispositivos móviles como *smartphones* y *tablets*. Esto incluye el desarrollo para sistemas operativos populares como Android y iOS.
 
-- [[Nativo]]: apps específicas para una plataforma, escritas en lenguajes como [[Kotlin]] o [[Swift]].
-- [[Multiplataforma]]: una sola base de código que se ejecuta en varias plataformas. Ej: [[Flutter]], [[React Native]].
-## Plataformas
+Este campo abarca una amplia gama de tecnologías, lenguajes, frameworks y metodologías que permiten crear desde pequeñas herramientas personales hasta plataformas complejas y escalables. La industria móvil es una de las más dinámicas y con mayor crecimiento en el desarrollo de software.
 
-- [[Android]]
-- [[iOS]]
-## Tecnologías comunes
+## 🎯 Enfoques principales
 
-- [[Lenguajes]]: [[Dart]], [[Kotlin]], [[Swift]], [[Java]], [[JavaScript]]
-- [[Frameworks]]: [[Flutter]], [[React Native]], [[SwiftUI]], [[Jetpack Compose]]
-- [[Backend]]: [[Firebase]], [[Node.js]], [[Supabase]]
+- **Nativo**: aplicaciones diseñadas específicamente para una plataforma, utilizando lenguajes como Kotlin (Android) o Swift (iOS). Ofrecen mejor rendimiento y acceso directo a las APIs del sistema operativo.
 
-## [[Tipos de apps]] móviles
+- **Multiplataforma**: una sola base de código que se ejecuta en múltiples plataformas. Tecnologías populares incluyen Flutter y React Native. Permiten mayor rapidez en el desarrollo y mantenimiento.
 
-- Apps nativas
-- Web Apps
-- Híbridas / multiplataforma
-- PWA (Progressive Web Apps)
+## 📱 Plataformas populares
 
-## Habilidades clave
+- **Android**: sistema operativo móvil desarrollado por Google, con una gran cuota de mercado mundial y amplio ecosistema.
 
-- Diseño de interfaces [[UI-UX]]
-- Gestión de estado
-- Consumo de [[APIs]]
-- Almacenamiento local
-- Autenticación
-- Testing y despliegue
+- **iOS**: sistema operativo móvil de Apple, enfocado en dispositivos de gama alta y con fuerte enfoque en diseño, rendimiento y seguridad.
 
-## Roadmaps
+## 🛠️ Tecnologías comunes
 
-Ver nota [[Roadmaps]] para listas organizadas de contenido escrito y visual sobre diferentes hojas de ruta para ser un Desarrollador Móvil.
+- **Lenguajes**: Dart, Kotlin, Swift, Java, JavaScript
 
-> Hello World! '\u{2665}'
+- **Frameworks**: Flutter, React Native, SwiftUI, Jetpack Compose
+- **Backend**: Firebase, Node.js, Supabase
+
+Estos componentes permiten desarrollar, conectar y desplegar apps funcionales, modernas y seguras.
+
+## 🔍 Tipos de apps móviles
+
+- **Apps nativas**: escritas para una plataforma específica.
+
+- **Web Apps**: se ejecutan en un navegador web móvil.
+- **Apps híbridas / multiplataforma**: usan tecnologías web pero se ejecutan como apps nativas.
+- **PWA (Progressive Web Apps)**: apps web que ofrecen experiencia similar a una app nativa, con acceso parcial a funcionalidades del dispositivo.
+
+## 👨‍💻 Habilidades clave
+
+- **Diseño de interfaces UI/UX**: crear experiencias agradables y funcionales.
+
+- **Gestión de estado**: controlar cómo fluye y se actualiza la información dentro de la app.
+- **Consumo de APIs**: conectar la app con servicios externos o bases de datos.
+- **Almacenamiento local**: guardar datos en el dispositivo.
+- **Autenticación**: sistemas de login seguros, a menudo integrados con Firebase, OAuth, etc.
+- **Testing y despliegue**: asegurar calidad y preparar el producto para ser publicado en tiendas de apps.
+
+## 🗺️ Roadmaps
+
+Las hojas de ruta te permiten visualizar y organizar el camino de aprendizaje. Existen guías visuales, listas interactivas y mapas de contenidos creados por la comunidad para ayudarte a convertirte en desarrollador móvil desde cero o mejorar tus habilidades actuales.
+
+## 🔗 Notas relacionadas
+
+- [[nativo]] → [nativo.md](nativo.md)
+
+- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md)
+- [[flutter]] → [flutter.md](flutter.md)
+- [[react_native]] → [react_native.md](react_native.md)
+- [[roadmaps]] → [roadmaps.md](roadmaps.md)
+- [[lenguajes]] → [lenguajes.md](lenguajes.md)
+- [[ui_ux]] → [ui_ux.md](ui_ux.md)
+- [[firebase]] → [firebase.md](firebase.md)
+
+> Made with '\u{2665}' (♥)

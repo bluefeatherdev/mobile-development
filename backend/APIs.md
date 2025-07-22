@@ -1,23 +1,26 @@
 # APIs
 
-Una **API (Application Programming Interface)** es un conjunto de reglas que permiten que dos aplicaciones se comuniquen entre sí. En el contexto del **desarrollo móvil**, las APIs permiten que tu app interactúe con servicios externos o internos, como bases de datos, autenticación, almacenamiento, entre otros.
-#### ¿Por qué son importantes las APIs en apps móviles?
+Una **API (Application Programming Interface)** es un conjunto de reglas que permite que dos aplicaciones se comuniquen entre sí. En el contexto del **desarrollo móvil**, las APIs son esenciales para conectar tu app con servicios externos o internos, como bases de datos, autenticación, almacenamiento en la nube, entre otros.
 
-Las apps móviles suelen depender de APIs para:
+El desarrollo moderno depende fuertemente de APIs para ofrecer funcionalidades dinámicas y escalables sin reinventar la rueda. Con ellas, una app móvil puede interactuar con servidores, redes sociales, inteligencia artificial, sistemas de pagos, etc.
 
-- Obtener y guardar datos de usuarios.
-    
-- Mostrar información actualizada desde un servidor.
-    
-- Autenticarse con servicios externos (Google, Facebook, Apple).
-    
-- Enviar y recibir notificaciones.
-    
-- Usar servicios de terceros como mapas, clima, pagos, etc.
-    
+## 🔍 ¿Por qué son importantes las APIs en apps móviles?
 
-Sin APIs, muchas apps no podrían funcionar más allá de la interfaz.
-#### Tipos de APIs más comunes
+Las aplicaciones móviles utilizan APIs para:
+
+- Obtener y guardar datos de usuarios.  
+
+- Mostrar información actualizada desde un servidor.  
+
+- Autenticarse con servicios externos (Google, Facebook, Apple).  
+
+- Enviar y recibir notificaciones push.  
+
+- Usar servicios de terceros como mapas, clima, pagos, reconocimiento facial, etc.  
+
+Sin APIs, la mayoría de las apps quedarían limitadas a lo que puede hacer el dispositivo por sí solo.
+
+## 📝 Tipos de APIs más comunes
 
 | Tipo             | ¿Qué hace?                                   | Ejemplo en móvil           |
 | ---------------- | -------------------------------------------- | -------------------------- |
@@ -27,72 +30,74 @@ Sin APIs, muchas apps no podrían funcionar más allá de la interfaz.
 | SDK/API nativa   | Funciones expuestas por el sistema operativo | Cámara, GPS, biometría     |
 | APIs de terceros | Servicios como Firebase, Google Maps, etc.   | Firebase Auth, OpenWeather |
 
-Ver: [[Backend]], [[Firebase]], [[Supabase]], [[Node.js]]
+Cada una de estas tiene sus ventajas dependiendo del caso de uso, el rendimiento necesario y la complejidad del sistema.
 
-#### Buenas prácticas al usar APIs móviles
+## 🥇 Buenas prácticas al usar APIs móviles
 
-- Usar correctamente los métodos HTTP: `GET`, `POST`, `PUT`, `DELETE`, etc.
-    
-- Manejar errores con códigos de respuesta (`404`, `500`, etc.).
-    
-- Usar tokens de autenticación (JWT, OAuth).
-    
-- Mostrar mensajes de carga o error al usuario.
-    
-- Proteger información sensible y validar datos.
-    
-#### Herramientas comunes
+- Usar correctamente los métodos HTTP: `GET`, `POST`, `PUT`, `DELETE`, etc.  
 
-- `http`, `dio`, `chopper` (en [[Flutter]])
-    
-- `fetch`, `axios` (en [[React Native]] o web)
-    
-- Postman o Insomnia (para probar APIs)
-    
-#### ¿También se pueden crear APIs?
+- Manejar errores de forma clara usando códigos de respuesta (`404`, `500`, etc.).  
 
-¡Sí! Un desarrollador móvil también puede crear sus propias APIs si necesita tener control total sobre su backend. Para eso puede usar tecnologías como:
+- Autenticar las peticiones con tokens (JWT, OAuth).  
 
-- [[Node.js]] + Express
-    
-- [[Firebase]] (con Firestore o Cloud Functions)
-    
-- [[Supabase]] (API generada automáticamente)
-    
-- Python (Flask o FastAPI)
-    
-Ver: [[Backend]]
+- Mostrar mensajes de carga o error al usuario para mejorar la experiencia.  
 
----
+- Validar datos del lado del cliente y proteger información sensible.  
 
-#### Recursos recomendados
+- Implementar paginación y manejo de tiempo de espera (timeouts).  
 
-- [MDN – APIs Web](https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
-    
-- REST vs GraphQL – comparación
-    
-- Postman – Documentación
-    
+## 🛠️ Herramientas comunes
 
----
+- En Flutter: `http`, `dio`, `chopper`.  
 
-#### Relacionado
+- En React Native o web: `fetch`, `axios`.  
 
-- [[Backend]]
-    
-- [[Firebase]]
-    
-- [[Supabase]]
-    
-- [[Node.js]]
-    
-- [[Flutter]]
-    
-- [[React Native]]
-    
-- [[Lenguajes]]
-    
-- [[Roadmaps]]
-- [[Desarrollo Móvil]]
+- Para pruebas y documentación de APIs: Postman, Insomnia, Swagger.  
 
-> Hello World! '\u{2665}'
+Estas herramientas permiten probar peticiones, ver respuestas, y simular distintos escenarios sin necesidad de codificar todo desde el inicio.
+
+## 🧑‍💻 ¿También se pueden crear APIs?
+
+¡Claro que sí! Un desarrollador móvil también puede crear sus propias APIs si desea mayor control sobre la lógica de negocio o personalización de funcionalidades.
+
+Algunas tecnologías populares para crear APIs son:
+
+- Node.js + Express  
+
+- Firebase (Firestore, Realtime Database, Cloud Functions)  
+
+- Supabase (con PostgreSQL y APIs automáticas)  
+
+- Python con Flask o FastAPI  
+
+Esto es útil para proyectos personales, portafolios, o cuando se necesita algo que no existe como servicio de terceros.
+
+## 🌐 Recursos recomendados
+
+- [MDN – APIs Web](https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)  
+
+- REST vs GraphQL – comparación técnica y visual  
+
+- Postman – Documentación oficial y ejemplos  
+
+## 🔗 Notas relacionadas
+
+- [[backend]] → [backend.md](backend.md)  
+
+- [[firebase]] → [firebase.md](firebase.md)  
+
+- [[supabase]] → [supabase.md](supabase.md)  
+
+- [[node.js]] → [node.js.md](node.js.md)  
+
+- [[flutter]] → [flutter.md](flutter.md)  
+
+- [[react_native]] → [react_native.md](react_native.md)  
+
+- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
+
+- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
+
+- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+
+> Made with '\u{2665}' (♥)

@@ -4,71 +4,73 @@
 
 Aunque no es un framework de desarrollo móvil en sí, es muy útil como **complemento backend** para apps móviles o para tareas relacionadas como automatización, servidores de desarrollo, y construcción de proyectos.
 
-#### ¿Para qué se usa Node.js en desarrollo móvil?
+## 🔍 ¿Para qué se usa Node.js en desarrollo móvil?
 
-- Crear **backends o APIs REST/GraphQL** que consumen tus apps móviles.
-    
-- Ejecutar **servidores locales** durante el desarrollo (ej. Metro en React Native).
-    
-- Usar herramientas como **npm**, **Expo CLI**, **Firebase CLI**, etc.
-    
-- Automatizar tareas de construcción, despliegue, pruebas o documentación.
-    
+- Crear **backends o APIs REST/GraphQL** que consumen tus apps móviles.  
+  
+- Ejecutar **servidores locales** durante el desarrollo (ej. Metro en React Native).  
+  
+- Usar herramientas como **npm**, **Expo CLI**, **Firebase CLI**, etc.  
+  
+- Automatizar tareas de construcción, despliegue, pruebas o documentación.  
+  
 
-#### Ventajas
+## ✅ Ventajas
 
-- Usa [[JavaScript]], por lo que puedes compartir conocimientos con el frontend o React Native.
-    
-- Gran ecosistema de paquetes a través de **npm** (el gestor más grande de módulos).
-    
-- Excelente para crear **microservicios**, **backends en tiempo real** (ej. con Socket.io), o servidores API rápidos con frameworks como **Express.js**.
-    
+- Usa **JavaScript**, por lo que puedes compartir conocimientos con el frontend o **React Native**.  
+  
+- Gran ecosistema de paquetes a través de **npm** (el gestor más grande de módulos).  
+  
+- Excelente para crear **microservicios**, **backends en tiempo real** (ej. con Socket.io), o servidores API rápidos con frameworks como **Express.js**.  
+  
 
----
+## ⚠️ Consideraciones
 
-#### Consideraciones
+- No es un lenguaje ni framework móvil, sino una tecnología complementaria.  
+  
+- No recomendado para procesamiento intensivo (CPU-bound), pero excelente para I/O.  
+  
+- Puede ser difícil estructurar proyectos grandes sin buenas prácticas o frameworks.  
+  
 
-- No es un lenguaje ni framework móvil, sino una tecnología complementaria.
-    
-- No recomendado para procesamiento intensivo (CPU-bound), pero excelente para I/O.
-    
-- Puede ser difícil estructurar proyectos grandes sin buenas prácticas o frameworks.
-#### Herramientas y librerías comunes
+## 🛠️ Herramientas y librerías comunes
 
-- **npm / npx** – gestor de paquetes y ejecución de scripts.
-    
-- **Express.js** – framework minimalista para APIs y backends.
-    
-- **Socket.io** – tiempo real con WebSockets.
-    
-- **NestJS** – arquitectura modular y escalable (inspirado en Angular).
-    
-- **Expo CLI / React Native CLI** – dependen de Node.js para ejecutarse.
-#### Recursos recomendados
+- **npm / npx** – gestor de paquetes y ejecución de scripts.  
+  
+- **Express.js** – framework minimalista para APIs y backends.  
+  
+- **Socket.io** – tiempo real con WebSockets.  
+  
+- **NestJS** – arquitectura modular y escalable (inspirado en Angular).  
+  
+- **Expo CLI / React Native CLI** – dependen de Node.js para ejecutarse.  
+  
+## 🌐 Recursos recomendados
 
-- [Sitio oficial de Node.js](https://nodejs.org/)
+- [Sitio oficial de Node.js](https://nodejs.org/)  
+  
+- Documentación de Node.js  
+  
+- Node.js – W3Schools  
+  
+- The Odin Project – Node.js  
 
-- Documentación de Node.js
-    
-- Node.js – W3Schools
-    
-- The Odin Project – Node.js
+## 🔗 notas relacionadas
 
-#### Relacionado
-
-- [[JavaScript]]
-    
-- [[React Native]]
-    
-- [[Firebase]]
-    
-- [[Frameworks]]
-    
-- [[Lenguajes]]
-    
-- [[hello-web]]
-    
-- [[Roadmaps]]
-- [[Desarrollo Móvil]]
-
-> Hello World! '\u{2665}'
+- [[javascript]] → [javascript.md](javascript.md)  
+  
+- [[react_native]] → [react_native.md](react_native.md)  
+  
+- [[firebase]] → [firebase.md](firebase.md)  
+  
+- [[frameworks]] → [frameworks.md](frameworks.md)  
+  
+- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
+  
+- [[hello_web]] → [hello_web.md](hello_web.md)  
+  
+- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
+  
+- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+  
+> Made with '\u{2665}' (♥)
