@@ -2,48 +2,74 @@
 
 **Java** es un lenguaje de programación de propósito general, orientado a objetos, creado por Sun Microsystems (ahora propiedad de Oracle). Fue el **lenguaje principal para el desarrollo de apps Android** durante muchos años y aún tiene una fuerte presencia en el ecosistema móvil.
 
----
-#### Características principales
+## ⚙️ Características principales
 
-- Sintaxis influenciada por C/C++.
-- Código compilado a bytecode, ejecutado en la **JVM (Java Virtual Machine)**.
-- Portabilidad: _"write once, run anywhere"_.
-- Orientado a objetos, con soporte para herencia, clases abstractas, interfaces, etc.
-- Fuerte tipado, control estricto del tipo de datos.
-#### Uso en desarrollo móvil
+- Sintaxis influenciada por C/C++.  
+  
+- Código compilado a bytecode, ejecutado en la JVM (Java Virtual Machine).  
+  
+- Portabilidad: _"write once, run anywhere"_.  
+  
+- Orientado a objetos, con soporte para herencia, clases abstractas, interfaces, etc.  
+  
+- Fuerte tipado, control estricto del tipo de datos.  
 
-- Fue el lenguaje oficial de Android hasta 2017 (reemplazado por [[Kotlin]]).
-- Todavía se usa en muchos proyectos existentes.
-- Permite acceso completo al SDK de Android.
-- Interoperable con Kotlin (pueden convivir en el mismo proyecto).
-#### Herramientas relacionadas
+## 📲 Uso en desarrollo móvil
 
-- **Android Studio**
-- Gradle (sistema de construcción)
-- Java SDK (JDK)
-- Android SDK (para desarrollo móvil)
-#### Ventajas
+- Fue el lenguaje oficial de Android hasta 2017 (reemplazado por Kotlin).  
+  
+- Todavía se usa en muchos proyectos existentes.  
+  
+- Permite acceso completo al SDK de Android.  
+  
+- Interoperable con Kotlin (pueden convivir en el mismo proyecto).  
 
-- Amplia comunidad y documentación.
-- Compatible con muchas bibliotecas y frameworks Android existentes.
-- Bueno para aprender conceptos fundamentales de programación orientada a objetos.
-#### Desventajas
+## 🛠️ Herramientas relacionadas
 
-- Sintaxis más verbosa que Kotlin.
-- Falta de características modernas integradas (como null safety o coroutines).
-- No es el lenguaje recomendado por Google para nuevos proyectos Android.
-#### Recursos recomendados
+- Android Studio  
+  
+- Gradle (sistema de construcción)  
+  
+- Java SDK (JDK)  
+  
+- Android SDK (para desarrollo móvil)  
 
-- [Documentación oficial de Java](https://docs.oracle.com/en/java/)
-- Java Programming – W3Schools
-- [Java for Android Developers (Android Developers)](https://developer.android.com/reference/java)
-#### Relacionado
+## ✅ Ventajas
 
-- [[Kotlin]]
-- [[Android]]
-- [[Nativo]]
-- [[Lenguajes]]
-- [[Roadmaps]]
-- [[Desarrollo Móvil]]
+- Amplia comunidad y documentación.  
+  
+- Compatible con muchas bibliotecas y frameworks Android existentes.  
+  
+- Bueno para aprender conceptos fundamentales de programación orientada a objetos.  
 
-> Hello World! '\u{2665}'
+## ⚠️ Desventajas
+
+- Sintaxis más verbosa que Kotlin.  
+  
+- Falta de características modernas integradas (como null safety o coroutines).  
+  
+- No es el lenguaje recomendado por Google para nuevos proyectos Android.  
+
+## 🌐 Recursos recomendados
+
+- [Documentación oficial de Java](https://docs.oracle.com/en/java/)  
+  
+- [Java Programming – W3Schools](https://www.w3schools.com/java/)  
+  
+- [Java for Android Developers (Android Developers)](https://developer.android.com/reference/java)  
+
+## 🔗 Notas relacionadas
+
+- [[kotlin]] → [kotlin.md](kotlin.md)  
+  
+- [[android]] → [android.md](android.md)  
+  
+- [[nativo]] → [nativo.md](nativo.md)  
+  
+- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
+  
+- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
+  
+- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+
+> Made with '\u{2665}' (♥)

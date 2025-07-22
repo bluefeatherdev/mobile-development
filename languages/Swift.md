@@ -2,33 +2,40 @@
 
 **Swift** es un lenguaje de programación moderno, seguro y de alto rendimiento desarrollado por **Apple**. Es el lenguaje **recomendado para el desarrollo de apps en iOS, iPadOS, macOS, watchOS y tvOS**.
 
----
-#### Características principales
+## ⚙️ Características principales
 
 - Sintaxis clara, moderna y fácil de leer.
-- Seguridad en tiempo de compilación (null safety, type safety).
-- Rápido y optimizado para hardware Apple.
-- Soporte para paradigmas orientado a objetos y funcional.
-- Interoperable con Objective-C.
+  
+- Seguridad en tiempo de compilación (null safety, type safety).  
+- Rápido y optimizado para hardware Apple.  
+- Soporte para paradigmas orientado a objetos y funcional.  
+- Interoperable con Objective-C.  
 
----
-#### Usos comunes
+## 📲 Usos comunes
 
 - Desarrollo de apps para **iOS** con Xcode.
-- Interfaces con **UIKit** o **SwiftUI**.
-- Desarrollo en el ecosistema Apple (iPad, Mac, Apple Watch, etc.).
-- Desarrollo de scripts, CLI tools o incluso backend (con frameworks como Vapor).
+  
+- Interfaces con **UIKit** o **SwiftUI**.  
+- Desarrollo en el ecosistema Apple (iPad, Mac, Apple Watch, etc.).  
+- Desarrollo de scripts, CLI tools o incluso backend (con frameworks como Vapor).  
 
----
-#### Recursos recomendados
+## ✅ Ventajas
 
-- [Swift.org (sitio oficial)](https://swift.org/)
-- [Apple Swift Documentation](https://developer.apple.com/swift/)
-- The Swift Programming Language (libro gratuito)
-- [Hacking with Swift (tutoriales)](https://www.hackingwithswift.com/)
+- Lenguaje moderno, mantenido activamente por Apple.
+  
+- Excelente rendimiento en dispositivos Apple.  
+- Playgrounds para aprender y experimentar con rapidez.  
+- Código abierto y comunidad en crecimiento.  
+- Menor verbosidad comparado con Objective-C.  
 
----
-#### Comparado con Objective-C
+## ⚠️ Desventajas
+
+- Solo es útil principalmente dentro del ecosistema Apple.
+  
+- Menos recursos disponibles en español que otros lenguajes.  
+- Curva de aprendizaje si vienes de lenguajes como JavaScript o Java.  
+
+## ⚖️ Comparado con Objective-C
 
 | Característica       | Swift                            | Objective-C            |
 | -------------------- | -------------------------------- | ---------------------- |
@@ -37,18 +44,26 @@
 | Curva de aprendizaje | Más fácil para nuevos devs       | Más compleja           |
 | Uso actual           | Lenguaje principal (recomendado) | Soportado pero legado  |
 
----
-#### Curiosidades
+## 🌱 Curiosidades
 
-- Lanzado en **2014** por Apple.
-- Es **de código abierto** desde 2015.
-- Tiene su propio **playground** en Xcode para probar código de forma interactiva.
+- Lanzado en **2014** por Apple. 
+ 
+- Es **de código abierto** desde 2015.  
+- Tiene su propio **playground** en Xcode para probar código de forma interactiva.  
 
----
-#### Relacionado
+## 🌐 Recursos recomendados
 
-- [[iOS]]
-- [[Nativo]]
-- [[Desarrollo Móvil]]
+- [Swift.org (sitio oficial)](https://swift.org/)  
 
-> Hello World! '\u{2665}'
+- [Apple Swift Documentation](https://developer.apple.com/swift/)  
+- [The Swift Programming Language (libro gratuito)](https://developer.apple.com/documentation/swift)  
+- [Hacking with Swift (tutoriales)](https://www.hackingwithswift.com/)  
+
+## 🔗 Notas relacionadas
+
+- [[ios]] → [ios.md](ios.md)
+  
+- [[nativo]] → [nativo.md](nativo.md)  
+- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+
+> Made with '\u{2665}' (♥)

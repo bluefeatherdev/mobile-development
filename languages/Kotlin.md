@@ -2,32 +2,40 @@
 
 **Kotlin** es un lenguaje de programación moderno, expresivo y seguro, desarrollado por JetBrains. Es el **lenguaje recomendado por Google para el desarrollo de aplicaciones Android** desde 2019.
 
----
-#### Características principales
+## ⚙️ Características principales
 
-- Sintaxis concisa y legible.
-- Compatible con Java (interoperabilidad total).
-- Soporte para programación funcional y orientada a objetos.
-- Null safety integrado para evitar errores comunes de referencia nula.
-- Coroutines para manejo de asincronía eficiente y simple.
+- Sintaxis concisa y legible. 
+ 
+- Compatible con Java (interoperabilidad total).  
+- Soporte para programación funcional y orientada a objetos.  
+- Null safety integrado para evitar errores comunes de referencia nula.  
+- Coroutines para manejo de asincronía eficiente y simple.  
 
----
-#### Usos comunes
+## 📲 Usos comunes
 
-- Desarrollo **nativo de Android** (con Android Studio).
-- Kotlin Multiplatform (compartir lógica entre Android, iOS, backend, web).
-- Backend con frameworks como Ktor o Spring Boot.
-- Scripts de automatización (Kotlin Scripting).
+- Desarrollo **nativo de Android** (con Android Studio).  
 
----
-#### Recursos recomendados
+- Kotlin Multiplatform (compartir lógica entre Android, iOS, backend, web).  
+- Backend con frameworks como Ktor o Spring Boot.  
+- Scripts de automatización (Kotlin Scripting).  
 
-- [Kotlin Lang (oficial)](https://kotlinlang.org/)
-- [Kotlin para Android (Android Developers)](https://developer.android.com/kotlin)
-- Kotlin Koans (ejercicios interactivos)
+## ✅ Ventajas
 
----
-#### Comparado con Java
+- Recomendado oficialmente por Google para Android.  
+
+- Sintaxis moderna, clara y menos verbosa que Java.  
+- Soporte integrado para null safety y coroutines.  
+- Interoperabilidad con Java sin fricciones.  
+- Comunidad activa y en crecimiento.  
+
+## ⚠️ Desventajas
+
+- Curva de aprendizaje si vienes de Java o no conoces programación funcional.
+  
+- Documentación y recursos menos abundantes que Java (aunque en aumento).  
+- Aún existen proyectos legacy en Java que requieren adaptación.  
+
+## ⚖️ Comparado con Java
 
 | Característica     | Kotlin                   | Java                   |
 | ------------------ | ------------------------ | ---------------------- |
@@ -36,11 +44,19 @@
 | Interoperabilidad  | Compatible con Java      | -                      |
 | Coroutines / async | Soporte nativo           | Se requieren librerías |
 | Uso en Android     | Recomendado oficialmente | Aún soportado          |
-#### Relacionado
 
-- [[Android]]
-- [[Nativo]]
-- [[Multiplataforma]]
-- [[Desarrollo Móvil]]
+## 🌐 Recursos recomendados
 
-> Hello World! '\u{2665}'
+- [Kotlin Lang (oficial)](https://kotlinlang.org/)  
+- [Kotlin para Android (Android Developers)](https://developer.android.com/kotlin)  
+- [Kotlin Koans (ejercicios interactivos)](https://play.kotlinlang.org/koans/overview)  
+
+## 🔗 Notas relacionadas
+
+- [[android]] → [android.md](android.md) 
+ 
+- [[nativo]] → [nativo.md](nativo.md)  
+- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md)  
+- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+
+> Made with '\u{2665}' (♥)
