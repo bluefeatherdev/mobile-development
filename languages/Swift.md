@@ -61,9 +61,10 @@
 
 ## 🔗 Notas relacionadas
 
-- [[ios]] → [ios.md](ios.md)
-  
-- [[nativo]] → [nativo.md](nativo.md)  
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[nativo]] → [nativo.md](/overview/nativo.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

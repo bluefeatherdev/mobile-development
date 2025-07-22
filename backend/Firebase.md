@@ -69,18 +69,18 @@ Una colección de servicios enfocados en acelerar el desarrollo de apps, sin nec
 
 ## 🔗 Notas relacionadas
 
-- [[flutter]] → [flutter.md](flutter.md)  
+- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
   
-- [[android]] → [android.md](android.md)  
+- [[android]] → [android.md](/os/android.md)  
   
-- [[ios]] → [ios.md](ios.md)  
+- [[ios]] → [ios.md](/os/ios.md)  
   
-- [[frameworks]] → [frameworks.md](frameworks.md)  
+- [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
   
-- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
+- [[languages]] → [languages.md](/languages/languages.md)  
   
-- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
+- [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
   
-- [[desarrollo móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)   
   
 > Made with '\u{2665}' (♥)

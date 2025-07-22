@@ -84,8 +84,10 @@ Se enfoca en **cómo se siente** usar una app:
 
 ## 🔗 Notas relacionadas
 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)
+- [[figma]] → [figma.md](/tools/figma.md)  
 
-- [[figma]] → [figma.md](figma.md)
+- [[advices]] → [advices.md](/advices/advices.md) 
+ 
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)
 
 > Made with '\u{2665}' (♥)

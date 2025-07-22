@@ -58,14 +58,20 @@
 
 ## 🔗 Notas relacionadas
 
-- [[android]] → [android.md](android.md)  
+- [[android]] → [android.md](/os/android.md)  
 
-- [[kotlin]] → [kotlin.md](kotlin.md)  
-- [[nativo]] → [nativo.md](nativo.md)  
-- [[frameworks]] → [frameworks.md](frameworks.md)  
-- [[ui_ux]] → [ui_ux.md](ui_ux.md)  
-- [[tipos_de_apps]] → [tipos_de_apps.md](tipos_de_apps.md)  
-- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[kotlin]] → [kotlin.md](/languages/kotlin.md)  
+
+- [[native]] → [native.md](/overview/native.md)  
+
+- [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
+
+- [[ui_ux]] → [ui_ux.md](/overview/ui_ux.md)  
+
+- [[app_types]] → [app_types.md](/overview/app_types.md)  
+
+- [[roadmaps]] → [roadmaps.md](/frameworks/roadmaps.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md) 
 
 > Made with '\u{2665}' (♥)

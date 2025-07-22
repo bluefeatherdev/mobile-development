@@ -64,15 +64,22 @@ En el desarrollo móvil intervienen distintos **lenguajes de programación**, se
 
 ## 🔗 Notas relacionadas
 
-- [[android]] → [android.md](android.md) 
- 
-- [[ios]] → [ios.md](ios.md)  
-- [[nativo]] → [nativo.md](nativo.md)  
-- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md)  
-- [[flutter]] → [flutter.md](flutter.md)  
-- [[react_native]] → [react_native.md](react_native.md)  
-- [[tipos_de_apps]] → [tipos_de_apps.md](tipos_de_apps.md)  
-- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)
+- [[android]] → [android.md](/os/android.md)  
+
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[nativo]] → [nativo.md](/overview/nativo.md)  
+
+- [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
+
+- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
+
+- [[react_native]] → [react_native.md](/frameworks/react_native.md)  
+
+- [[app_types]] → [app_types.md](/overview/tipos_de_apps.md)  
+
+- [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

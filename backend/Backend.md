@@ -76,22 +76,22 @@ Incluso si no lo usas diariamente, saber lo básico te da una ventaja enorme.
 
 ## 🔗 Notas relacionadas
 
-- [[firebase]] → [firebase.md](firebase.md)  
+- [[firebase]] → [firebase.md](/backend/firebase.md)  
 
-- [[supabase]] → [supabase.md](supabase.md)  
+- [[supabase]] → [supabase.md](/backend/supabase.md)  
 
-- [[node.js]] → [node.js.md](node.js.md)  
+- [[node.js]] → [node.js.md](/backend/node.js.md)  
 
-- [[flutter]] → [flutter.md](flutter.md)  
+- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
 
-- [[react_native]] → [react_native.md](react_native.md)  
+- [[react_native]] → [react_native.md](/frameworks/react_native.md)  
 
-- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
+- [[languages]] → [languages.md](/languages/languages.md)  
 
-- [[frameworks]] → [frameworks.md](frameworks.md)  
+- [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
 
-- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
+- [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

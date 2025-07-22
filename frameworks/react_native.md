@@ -68,12 +68,16 @@
 
 ## 🔗 Notas relacionadas
 
-- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md)
+- [[multiplatform]] → [multiplatform.md](/overview/multiplatform.md)  
 
-- [[tipos_de_apps]] → [tipos_de_apps.md](tipos_de_apps.md)  
-- [[javascript]] → [javascript.md](javascript.md)  
-- [[android]] → [android.md](android.md)  
-- [[ios]] → [ios.md](ios.md)  
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[app_types]] → [app_types.md](/overview/app_types.md)  
+
+- [[javascript]] → [javascript.md](/languages/javascript.md)  
+
+- [[android]] → [android.md](/os/android.md)  
+
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

@@ -82,8 +82,17 @@
 
 ## 🔗 Notas relacionadas
 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[swift]] → [swift.md](/languages/swift.md)  
 
-- [[swift]] → [swift.md](swift.md)   
+- [[objective_c]] → [objective_c.md](/languages/objective_c.md)  
+
+- [[dart]] → [dart.md](/languages/dart.md)  
+
+- [[native]] → [native.md](/overview/native.md)  
+
+- [[xcode]] → [xcode.md](/tools/xcode.md) 
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md) 
+
 
 > Made with '\u{2665}' (♥)

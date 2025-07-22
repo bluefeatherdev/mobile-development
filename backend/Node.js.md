@@ -57,20 +57,18 @@ Aunque no es un framework de desarrollo móvil en sí, es muy útil como **compl
 
 ## 🔗 notas relacionadas
 
-- [[javascript]] → [javascript.md](javascript.md)  
+- [[javascript]] → [javascript.md](/languages/javascript.md)  
   
-- [[react_native]] → [react_native.md](react_native.md)  
+- [[react_native]] → [react_native.md](/frameworks/react_native.md)  
   
-- [[firebase]] → [firebase.md](firebase.md)  
+- [[firebase]] → [firebase.md](/backend/firebase.md)  
   
-- [[frameworks]] → [frameworks.md](frameworks.md)  
+- [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
   
-- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
+- [[languages]] → [languages.md](/languages/languages.md)  
   
-- [[hello_web]] → [hello_web.md](hello_web.md)  
+- [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
   
-- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
-  
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
-  
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md) 
+
 > Made with '\u{2665}' (♥)

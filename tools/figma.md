@@ -53,9 +53,16 @@ También permite exportar elementos, generar especificaciones y crear flujos com
 
 ## 🔗 Notas relacionadas
 
-- [[ui_ux]] → [ui_ux.md](ui_ux.md)  
+- [[android]] → [android.md](/os/android.md)  
 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
-- [[flutter]] → [flutter.md](flutter.md)  
+- [[ios]] → [ios.md](/os/ios.md)  
+ 
+- [[ui_ux]] → [ui_ux.md](/ui-ux/ui_ux.md)  
 
+- [[tools]] → [tools.md](/tools/tools.md)  
+
+- [[advices]] → [advices.md](/advices/advices.md) 
+ 
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)
+  
 > Made with '\u{2665}' (♥)

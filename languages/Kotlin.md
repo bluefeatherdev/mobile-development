@@ -53,10 +53,12 @@
 
 ## 🔗 Notas relacionadas
 
-- [[android]] → [android.md](android.md) 
- 
-- [[nativo]] → [nativo.md](nativo.md)  
-- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md)  
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[android]] → [android.md](/platforms/android.md)  
+
+- [[native]] → [native.md](/overview/native.md)  
+
+- [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

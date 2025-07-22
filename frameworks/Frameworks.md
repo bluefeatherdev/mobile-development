@@ -72,24 +72,24 @@ Usan tecnologías web embebidas en una app nativa.
 
 ## 🔗 Notas relacionadas
 
-- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
+- [[languages]] → [languages.md](/languages/languages.md)  
   
-- [[android]] → [android.md](android.md)  
+- [[android]] → [android.md](/os/android.md)  
   
-- [[ios]] → [ios.md](ios.md)  
+- [[ios]] → [ios.md](/os/ios.md)  
   
-- [[flutter]] → [flutter.md](flutter.md)  
+- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
   
-- [[react_native]] → [react_native.md](react_native.md)  
+- [[react_native]] → [react_native.md](/frameworks/react_native.md)  
   
-- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md)  
+- [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
   
-- [[nativo]] → [nativo.md](nativo.md)  
+- [[native]] → [native.md](/overview/native.md)  
   
-- [[tipos_de_apps]] → [tipos_de_apps.md](tipos_de_apps.md)  
+- [[app_types]] → [app_types.md](/overview/app_types.md)  
   
-- [[ui-ux]] → [ui-ux.md](ui-ux.md)  
+- [[ui_ux]] → [ui_ux.md](/overview/ui_ux.md)  
   
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)   
 
 > Made with '\u{2665}' (♥)

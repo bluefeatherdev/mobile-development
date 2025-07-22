@@ -1,4 +1,4 @@
-# Dart!
+# Dart
 
 **Lenguaje de programación desarrollado por Google**, optimizado para el desarrollo de aplicaciones frontend, especialmente móviles con Flutter.
 
@@ -58,10 +58,16 @@
 - Curso oficial gratuito: [Dart & Flutter Codelabs](https://dart.dev/codelabs)  
 ## 🔗 Notas relacionadas
 
-- [[flutter]] → [flutter.md](flutter.md) 
- 
-- [[java]] → [java.md](java.md)  
-- [[android_studio]] → [android_studio.md](android_studio.md)  
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
+
+- [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
+
+- [[android]] → [android.md](/os/android.md)  
+
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[android_studio]] → [android_studio.md](/tools/android_studio.md)   
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

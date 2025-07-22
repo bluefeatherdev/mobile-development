@@ -75,12 +75,22 @@ Esta nota recopila enlaces a hojas de ruta (roadmaps) para aprender tecnologías
 
 ## 🔗 Notas relacionadas
 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[android]] → [android.md](/os/android.md)  
 
-- [[flutter]] → [flutter.md](flutter.md)  
-- [[dart]] → [dart.md](dart.md)  
-- [[android]] → [android.md](android.md)  
-- [[ios]] → [ios.md](ios.md)  
-- [[ui_ux]] → [ui_ux.md](ui_ux.md)  
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[languages]] → [languages.md](/languages/languages.md) 
+ 
+- [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
+
+- [[app_types]] → [app_types.md](/overview/app_types.md)  
+
+- [[backend]] → [backend.md](/backend/setup.md) 
+
+- [[ui_ux]] → [ui_ux.md](/ui-ux/ui_ux.md)  
+
+- [[tools]] → [tools.md](/tools/tools.md)   
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

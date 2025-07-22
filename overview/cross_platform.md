@@ -81,11 +81,20 @@ En el desarrollo móvil, el enfoque **multiplataforma** permite crear aplicacion
 
 ## 🧭 Notas relacionadas
 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)
-  
-- [[flutter]] → [flutter.md](flutter.md)
-- [[kotlin]] → [kotlin.md](kotlin.md)  
-- [[react_native]] → [react_native.md](react_native.md)  
+- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
 
+- [[react_native]] → [react_native.md](/frameworks/react_native.md)  
+
+- [[android]] → [android.md](/os/android.md)  
+
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[dart]] → [dart.md](/languages/dart.md) 
+ 
+- [[kotlin]] → [kotlin.md](/languages/kotlin.md)  
+
+- [[javascript]] → [javascript.md](/languages/javascript.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

@@ -65,9 +65,14 @@ Es obligatorio hacerlo desde una Mac. Algunas opciones alternativas son usar ser
 
 ## 🔗 Notas relacionadas
 
-- [[ios]] → [ios.md](ios.md) 
- 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md) 
-- [[flutter]] → [flutter.md](flutter.md)  
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[swift]] → [swift.md](/languages/swift.md) 
+
+- [[flutter]] → [flutter.md](/framework/flutter.md)  
+
+- [[xcode]] → [xcode.md](/tools/xcode.md)   
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

@@ -62,12 +62,12 @@
 
 ## 🧭 Notas relacionadas
 
-- [[react_native]] → [react_native.md](react_native.md)  
-  
-- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
-  
-- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md)  
-  
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[react_native]] → [react_native.md](/frameworks/react_native.md)  
+
+- [[languages]] → [languages.md](/languages/languages.md)  
+
+- [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

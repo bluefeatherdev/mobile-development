@@ -47,16 +47,28 @@ Estos componentes permiten desarrollar, conectar y desplegar apps funcionales, m
 
 Las hojas de ruta te permiten visualizar y organizar el camino de aprendizaje. Existen guías visuales, listas interactivas y mapas de contenidos creados por la comunidad para ayudarte a convertirte en desarrollador móvil desde cero o mejorar tus habilidades actuales.
 
-## 🔗 Notas relacionadas
+## 🔗 Notas relacionadas 
 
-- [[nativo]] → [nativo.md](nativo.md)
+- [[android]] → [android.md](/os/android.md)  
 
-- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md)
-- [[flutter]] → [flutter.md](flutter.md)
-- [[react_native]] → [react_native.md](react_native.md)
-- [[roadmaps]] → [roadmaps.md](roadmaps.md)
-- [[lenguajes]] → [lenguajes.md](lenguajes.md)
-- [[ui_ux]] → [ui_ux.md](ui_ux.md)
-- [[firebase]] → [firebase.md](firebase.md)
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[languages]] → [languages.md](/languages/languages.md) 
+ 
+- [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
+
+- [[app_types]] → [app_types.md](/overview/app_types.md)  
+
+- [[backend]] → [backend.md](/backend/setup.md) 
+
+- [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
+
+- [[ui_ux]] → [ui_ux.md](/ui-ux/ui_ux.md)  
+
+- [[tools]] → [tools.md](/tools/tools.md)  
+
+- [[advices]] → [advices.md](/advices/advices.md) 
+ 
+- [[setup]] → [setup.md](/setup/setup.md)  
 
 > Made with '\u{2665}' (♥)

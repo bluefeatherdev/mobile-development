@@ -46,11 +46,14 @@
 
 ## 🔗 Notas relacionadas
 
-- [[swift]] → [swift.md](swift.md)  
+- [[swift]] → [swift.md](/languages/swift.md)  
 
-- [[ios]] → [ios.md](ios.md)  
-- [[ui_ux]] → [ui_ux.md](ui_ux.md)  
-- [[frameworks]] → [frameworks.md](frameworks.md)  
-- [[uikit]] → [uikit.md](uikit.md)  
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[ui_ux]] → [ui_ux.md](/overview/ui_ux.md)  
+
+- [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
+
+- [[uikit]] → [uikit.md](/frameworks/uikit.md)  
 
 > Made with '\u{2665}' (♥)

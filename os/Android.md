@@ -69,9 +69,17 @@
 
 ## 🔗 Notas relacionadas
 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)
+- [[kotlin]] → [kotlin.md](/languages/kotlin.md)  
+
+- [[java]] → [java.md](/languages/java.md)  
+
+- [[dart]] → [dart.md](/languages/dart.md)  
+
+- [[native]] → [native.md](/overview/native.md)  
   
-- [[kotlin]] → [kotlin.md](kotlin.md)
-- [[java]] → [java.md](kotlin.md)   
+- [[android_studio]] → [android_studio.md](/tools/android_studio.md) 
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md) 
+
 
 > Made with '\u{2665}' (♥)

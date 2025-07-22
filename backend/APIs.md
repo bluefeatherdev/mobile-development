@@ -82,22 +82,22 @@ Esto es útil para proyectos personales, portafolios, o cuando se necesita algo 
 
 ## 🔗 Notas relacionadas
 
-- [[backend]] → [backend.md](backend.md)  
+- [[backend]] → [backend.md](/backend/backend.md)  
 
-- [[firebase]] → [firebase.md](firebase.md)  
+- [[firebase]] → [firebase.md](/backend/firebase.md)  
 
-- [[supabase]] → [supabase.md](supabase.md)  
+- [[supabase]] → [supabase.md](/backend/supabase.md)  
 
-- [[node.js]] → [node.js.md](node.js.md)  
+- [[node.js]] → [node.js.md](/backend/node.js.md)  
 
-- [[flutter]] → [flutter.md](../frameworks/flutter.md)  
+- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
 
-- [[react_native]] → [react_native.md](../frameworks/react_native.md)  
+- [[react_native]] → [react_native.md](/frameworks/react_native.md)  
 
-- [[languages]] → [languages.md](../languages/languages.md)  
+- [[languages]] → [languages.md](/languages/languages.md)  
 
-- [[roadmaps]] → [roadmaps.md](../roadmaps/roadmaps.md)  
+- [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
 
-- [[mobile_development]] → [mobile_development.md](../overview/mobile_development.md)  
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

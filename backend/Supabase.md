@@ -61,18 +61,18 @@ Es un conjunto de servicios que permiten crear aplicaciones sin tener que montar
   
 ## 🔗 Notas relacionadas
 
-- [[firebase]] → [firebase.md](firebase.md)  
+- [[firebase]] → [firebase.md](/backend/firebase.md)  
   
-- [[flutter]] → [flutter.md](flutter.md)  
+- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
   
-- [[frameworks]] → [frameworks.md](frameworks.md)  
+- [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
   
-- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
+- [[languages]] → [languages.md](/languages/languages.md)  
   
-- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
+- [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
   
-- [[backend]] → [backend.md](backend.md)  
+- [[backend]] → [backend.md](/backend/backend.md)  
   
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)   
   
 > Made with '\u{2665}' (♥)

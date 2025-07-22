@@ -55,9 +55,18 @@ El desarrollo nativo consiste en crear aplicaciones específicas para una plataf
 
 ## 🔗 Notas relacionadas
 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md) 
+- [[android]] → [android.md](/os/android.md)  
 
-- [[kotlin]] → [kotlin.md](kotlin.md)   
-- [[swift]] → [swift.md](swift.md)  
+- [[ios]] → [ios.md](/os/ios.md)  
+
+- [[kotlin]] → [kotlin.md](/languages/kotlin.md)
+
+- [[swift]] → [swift.md](/languages/swift.md)
+
+- [[java]] → [java.md](/languages/java.md)
+
+- [[objective_c]] → [objective_c.md](/languages/objective_c.md)
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)
 
 > Made with '\u{2665}' (♥)

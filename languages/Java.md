@@ -60,16 +60,16 @@
 
 ## 🔗 Notas relacionadas
 
-- [[kotlin]] → [kotlin.md](kotlin.md)  
-  
-- [[android]] → [android.md](android.md)  
-  
-- [[nativo]] → [nativo.md](nativo.md)  
-  
-- [[lenguajes]] → [lenguajes.md](lenguajes.md)  
-  
-- [[roadmaps]] → [roadmaps.md](roadmaps.md)  
-  
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[kotlin]] → [kotlin.md](/languages/kotlin.md)  
+
+- [[android]] → [android.md](/os/android.md)  
+
+- [[native]] → [native.md](/overview/native.md)  
+
+- [[languages]] → [languages.md](/languages/lenguages.md)  
+
+- [[roadmaps]] → [roadmaps.md](/frameworks/roadmaps.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

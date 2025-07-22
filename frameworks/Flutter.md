@@ -1,4 +1,4 @@
-# Flutter!
+# Flutter
 
 **Framework UI open-source desarrollado por Google** para crear aplicaciones nativas multiplataforma desde una sola base de código.
 
@@ -44,9 +44,10 @@
 
 ## 🔗 Notas relacionadas
 
-- [[dart]] → [dart.md](dart.md) 
- 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
-- [[multiplataforma]] → [multiplataforma.md](multiplataforma.md) 
+- [[dart]] → [dart.md](/languages/dart.md)  
+  
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
+  
+- [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
 
 > Made with '\u{2665}' (♥)

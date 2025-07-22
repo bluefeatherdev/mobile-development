@@ -33,9 +33,13 @@ Ideas prácticas y estéticas para mejorar presentaciones visuales, ventanas de 
 - [DeviceMock – Generate device frames](https://devicemock.com/)  
 
 ## 🔗 Notas relacionadas
+ 
+- [[ui_ux]] → [ui_ux.md](/ui-ux/ui_ux.md)  
 
-- [[ui_ux]] → [ui_ux.md](ui_ux.md)  
+- [[figma]] → [figma.md](/tools/figma.md)  
 
-- [[desarrollo_móvil]] → [desarrollo_móvil.md](desarrollo_móvil.md)  
+- [[advices]] → [advices.md](/advices/advices.md) 
+ 
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)
 
 > Made with '\u{2665}' (♥)
