@@ -69,7 +69,7 @@ Es obligatorio hacerlo desde una Mac. Algunas opciones alternativas son usar ser
 
 - [[swift]] → [swift.md](/languages/swift.md) 
 
-- [[flutter]] → [flutter.md](/framework/flutter.md)  
+- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
 
 - [[xcode]] → [xcode.md](/tools/xcode.md)   
 

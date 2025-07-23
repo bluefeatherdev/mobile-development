@@ -66,9 +66,9 @@
 
 - [[native]] → [native.md](/overview/native.md)  
 
-- [[languages]] → [languages.md](/languages/lenguages.md)  
+- [[languages]] → [languages.md](/languages/languages.md)  
 
-- [[roadmaps]] → [roadmaps.md](/frameworks/roadmaps.md)  
+- [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
 
 - [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 

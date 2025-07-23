@@ -68,7 +68,7 @@ En el desarrollo móvil intervienen distintos **lenguajes de programación**, se
 
 - [[ios]] → [ios.md](/os/ios.md)  
 
-- [[nativo]] → [nativo.md](/overview/nativo.md)  
+- [[native]] → [native.md](/overview/native.md)  
 
 - [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
 
@@ -76,7 +76,7 @@ En el desarrollo móvil intervienen distintos **lenguajes de programación**, se
 
 - [[react_native]] → [react_native.md](/frameworks/react_native.md)  
 
-- [[app_types]] → [app_types.md](/overview/tipos_de_apps.md)  
+- [[app_types]] → [app_types.md](/overview/app_types.md)  
 
 - [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
 

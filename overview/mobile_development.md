@@ -59,7 +59,7 @@ Las hojas de ruta te permiten visualizar y organizar el camino de aprendizaje. E
 
 - [[app_types]] → [app_types.md](/overview/app_types.md)  
 
-- [[backend]] → [backend.md](/backend/setup.md) 
+- [[backend]] → [backend.md](/backend/backend.md) 
 
 - [[roadmaps]] → [roadmaps.md](/roadmaps/roadmaps.md)  
 

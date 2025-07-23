@@ -68,7 +68,7 @@
 
 ## 🔗 Notas relacionadas
 
-- [[multiplatform]] → [multiplatform.md](/overview/multiplatform.md)  
+- [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
 
 - [[app_types]] → [app_types.md](/overview/app_types.md)  
 

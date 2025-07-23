@@ -24,18 +24,18 @@ Este repositorio funciona como un **vault de Obsidian**, donde organizo mis nota
 
 Las notas están organizadas en carpetas temáticas para facilitar su exploración:
 
-| Carpeta       | Contenido                                                              |
-|--------------|-------------------------------------------------------------------------|
-| [`overview/`](./overview)    | Introducciones generales, notas de visión, objetivos y contexto.       |
-| [`languages/`](./languages)   | Conceptos y prácticas sobre lenguajes como Dart, Kotlin o Swift.       |
-| [`frameworks/`](./frameworks)  | Frameworks móviles como Flutter, React Native y otros.                 |
-| [`backend/`](./backend)     | Notas sobre bases de datos, APIs, autenticación y servicios backend.   |
-| [`os/`](./os)          | Sistemas operativos móviles, ciclo de vida, arquitectura, etc.         |
-| [`database/`](./database)    | Tipos de bases de datos, consultas y herramientas como Firebase, etc.  |
-| [`roadmaps/`](./roadmaps)    | Mapas de ruta de aprendizaje, guías y caminos sugeridos.               |
-| [`setup/`](./setup)       | Configuración de entorno, instalación de herramientas, etc.            |
-| [`tools/`](./tools)       | Utilidades, extensiones, paquetes y recursos útiles.                   |
-| [`ui-ux/`](./ui-ux)       | Principios de diseño, patrones UI, usabilidad y accesibilidad.         |
+| Carpeta                       | Contenido                                                             |
+| ----------------------------- | --------------------------------------------------------------------- |
+| [`overview/`](./overview)     | Introducciones generales, notas de visión, objetivos y contexto.      |
+| [`languages/`](./languages)   | Conceptos y prácticas sobre lenguajes como Dart, Kotlin o Swift.      |
+| [`frameworks/`](./frameworks) | Frameworks móviles como Flutter, React Native y otros.                |
+| [`backend/`](./backend)       | Notas sobre bases de datos, APIs, autenticación y servicios backend.  |
+| [`os/`](./os)                 | Sistemas operativos móviles, ciclo de vida, arquitectura, etc.        |
+| [`database/`](./database)     | Tipos de bases de datos, consultas y herramientas como Firebase, etc. |
+| [`roadmaps/`](./roadmaps)     | Mapas de ruta de aprendizaje, guías y caminos sugeridos.              |
+| [`setup/`](./setup)           | Configuración de entorno, instalación de herramientas, etc.           |
+| [`tools/`](tools.md)          | Utilidades, extensiones, paquetes y recursos útiles.                  |
+| [`ui-ux/`](./ui_ux)           | Principios de diseño, patrones UI, usabilidad y accesibilidad.        |
 
 Cada carpeta contiene archivos Markdown (`.md`) con notas conectadas a través de enlaces internos.
 

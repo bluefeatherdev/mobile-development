@@ -85,7 +85,7 @@ Esta nota recopila enlaces a hojas de ruta (roadmaps) para aprender tecnologías
 
 - [[app_types]] → [app_types.md](/overview/app_types.md)  
 
-- [[backend]] → [backend.md](/backend/setup.md) 
+- [[backend]] → [backend.md](/backend/backend.md) 
 
 - [[ui_ux]] → [ui_ux.md](/ui-ux/ui_ux.md)  
 

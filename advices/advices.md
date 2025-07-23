@@ -1,6 +1,5 @@
 # Consejos
 
-### Notas relacionadas
+## 🔗 Notas relacionadas
 
-- [[Desarrollo Móvil]]
-- [[Roadmaps]]
+-  [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  

@@ -53,7 +53,7 @@
 
 ## 🔗 Notas relacionadas
 
-- [[android]] → [android.md](/platforms/android.md)  
+- [[android]] → [android.md](/os/android.md)  
 
 - [[native]] → [native.md](/overview/native.md)  
 

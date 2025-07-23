@@ -63,7 +63,7 @@
 
 - [[ios]] → [ios.md](/os/ios.md)  
 
-- [[nativo]] → [nativo.md](/overview/nativo.md)  
+- [[native]] → [native.md](/overview/native.md)  
 
 - [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
