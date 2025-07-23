@@ -14,4 +14,16 @@
 - Colaboración en equipos ágiles y **adaptación a cambios** rápidos del proyecto.
 - Metodologías ágiles (**Scrum**, **Kanban**) para el trabajo en equipo
 
+## 🥇 Tecnologías más solicitadas
+
+- abc
+- abc
+- abc
+
+## 👨‍💻 Conocimientos más solicitados
+
+- abc
+- abc
+- abc
+
 > Made with '\u{2665}' (♥)

@@ -46,4 +46,16 @@
 - Knowledge of **backend** integration and **GraphQL APIs**
 - Experience with **Firebase Analytics**, **Cloud Messaging**, or **ML features**.
 
+## 🥇 Tecnologías más solicitadas
+
+- abc
+- abc
+- abc
+
+## 👨‍💻 Conocimientos más solicitados
+
+- abc
+- abc
+- abc
+
 > Made with '\u{2665}' (♥)
