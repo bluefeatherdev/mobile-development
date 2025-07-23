@@ -26,4 +26,10 @@
 - abc
 - abc
 
+## 🔗 Notas relacionadas
+
+- [[kotlin]] → [kotlin.md](/languages/kotlin.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
+
 > Made with '\u{2665}' (♥)
