@@ -84,6 +84,10 @@
   
 - [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
   
-- [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
+- [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md) 
+
+- [[android]] → [android.md](/os/android.md)  
+
+- [[ios]] → [ios.md](/os/ios.md)  
 
 > Made with '\u{2665}' (♥)
