@@ -2,7 +2,7 @@
 
 **Framework UI open-source desarrollado por Google** para crear aplicaciones nativas multiplataforma desde una sola base de código.
 
-## 🥇 Características principales
+## 🎯 Características principales
 
 - Usa el lenguaje dart  
   
