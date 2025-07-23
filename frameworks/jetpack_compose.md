@@ -66,7 +66,7 @@
 
 - [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
 
-- [[ui_ux]] → [ui_ux.md](/overview/ui_ux.md)  
+- [[ui_ux]] → [ui_ux.md](/ui-ux/ui_ux.md)  
 
 - [[app_types]] → [app_types.md](/overview/app_types.md)  
 

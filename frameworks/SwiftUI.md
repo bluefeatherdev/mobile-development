@@ -50,10 +50,12 @@
 
 - [[ios]] → [ios.md](/os/ios.md)  
 
-- [[ui_ux]] → [ui_ux.md](/overview/ui_ux.md)  
+- [[ui_ux]] → [ui_ux.md](/ui-ux/ui_ux.md)  
 
 - [[frameworks]] → [frameworks.md](/frameworks/frameworks.md)  
 
 - [[uikit]] → [uikit.md](/frameworks/uikit.md)  
+
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
 
 > Made with '\u{2665}' (♥)

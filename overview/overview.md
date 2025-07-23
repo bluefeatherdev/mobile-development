@@ -11,7 +11,6 @@ El desarrollo móvil ha crecido exponencialmente en la última década, impulsad
 - **Nativo**: Usar las herramientas oficiales de cada plataforma (Android Studio con Kotlin/Java, Xcode con Swift/Objective-C).  
 
 - **Multiplataforma (cross-platform)**: Utilizar frameworks como Flutter, React Native o Xamarin para crear una sola base de código y desplegarla en varias plataformas.  
-
 - **Web apps**: Aplicaciones accesibles desde el navegador del móvil, creadas con tecnologías como HTML, CSS y JavaScript.  
 
 ## 📦 Tipos de aplicaciones móviles

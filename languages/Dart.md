@@ -67,6 +67,8 @@
 
 - [[ios]] → [ios.md](/os/ios.md)  
 
+- [[java]] → [java.md](/languages/java.md)  
+
 - [[android_studio]] → [android_studio.md](/tools/android_studio.md)   
 
 - [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  

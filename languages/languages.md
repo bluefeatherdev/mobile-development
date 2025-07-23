@@ -72,7 +72,7 @@ En el desarrollo móvil intervienen distintos **lenguajes de programación**, se
 
 - [[cross_platform]] → [cross_platform.md](/overview/cross_platform.md)  
 
-- [[flutter]] → [flutter.md](/frameworks/flutter.md)  
+- [[dart] → [dart.md](/languages/dart.md)  
 
 - [[react_native]] → [react_native.md](/frameworks/react_native.md)  
 

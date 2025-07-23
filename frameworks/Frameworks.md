@@ -88,7 +88,7 @@ Usan tecnologías web embebidas en una app nativa.
   
 - [[app_types]] → [app_types.md](/overview/app_types.md)  
   
-- [[ui_ux]] → [ui_ux.md](/overview/ui_ux.md)  
+- [[ui_ux]] → [ui_ux.md](/ui-ux/ui_ux.md)  
   
 - [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)   
 

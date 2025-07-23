@@ -85,4 +85,7 @@ Para publicar apps en la App Store necesitas:
 
 - [[flutter]] → [flutter.md](/frameworks/flutter.md)  
 
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
+
+
 > Made with '\u{2665}' (♥)

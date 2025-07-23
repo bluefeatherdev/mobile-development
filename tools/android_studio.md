@@ -67,4 +67,6 @@ Android Studio puede instalarse en **Windows**, **macOS** y **Linux**.
 
 - [[setup]] → [setup.md](/setup/setup.md)  
 
+- [[mobile_development]] → [mobile_development.md](/overview/mobile_development.md)  
+
 > Made with '\u{2665}' (♥)
