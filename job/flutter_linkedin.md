@@ -9,7 +9,7 @@
 - Manejo del lenguaje **Dart** Uso de *widgets personalizados* y *dinámicos*
 - Manejo de estado **Animaciones** y transiciones **Integración** con plugins nativos
 - **Java** Conocimientos sólidos en **Java SE** y/o **Java EE** Integración de Flutter con código nativo Android (Java/**Kotlin**)
-Desarrollo de **APIs RESTful** en Java
+- Desarrollo de **APIs RESTful** en Java
 
 ### Senior Flutter Engineer
 
@@ -45,3 +45,5 @@ Desarrollo de **APIs RESTful** en Java
 - Familiarity with **Agile practices** and working in **consulting environments**
 - Knowledge of **backend** integration and **GraphQL APIs**
 - Experience with **Firebase Analytics**, **Cloud Messaging**, or **ML features**.
+
+> Made with '\u{2665}' (♥)

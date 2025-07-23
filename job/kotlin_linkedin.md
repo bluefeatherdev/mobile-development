@@ -13,3 +13,5 @@
 - Participación en el **mantenimiento** y **mejora** continua de las aplicaciones.
 - Colaboración en equipos ágiles y **adaptación a cambios** rápidos del proyecto.
 - Metodologías ágiles (**Scrum**, **Kanban**) para el trabajo en equipo
+
+> Made with '\u{2665}' (♥)
