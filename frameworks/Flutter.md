@@ -41,7 +41,43 @@
   
 - `flutterfire` (Firebase + Flutter)  
   
+## ✅ Ventajas
 
+- Una sola base de código para múltiples plataformas  
+  
+- Alta personalización de la UI gracias a su motor gráfico propio  
+  
+- Comunidad activa y en crecimiento  
+  
+- Compatible con CI/CD, pruebas automatizadas y plugins nativos  
+  
+- Integración oficial con Firebase y Google APIs  
+  
+## ⚠️ Desventajas
+
+- Tamaño inicial de las apps puede ser más grande que apps nativas  
+  
+- Requiere macOS para compilar o probar apps para iOS  
+  
+- El acceso a APIs nativas a veces necesita desarrollo de plugins adicionales  
+  
+- Curva de aprendizaje si no se conoce Dart previamente  
+  
+
+## 🌐 Recursos recomendados
+
+- [Documentación oficial](https://docs.flutter.dev)  
+  
+- [Flutter & Dart - Curso Completo (Fernando Herrera, Udemy)](https://www.udemy.com/course/flutter-ios-android-app-developer/)  
+  
+- [Flutter Codelabs](https://flutter.dev/docs/codelabs)  
+  
+- [Flutter YouTube Oficial](https://www.youtube.com/@FlutterDev)  
+  
+- [FlutterFire (integración con Firebase)](https://firebase.flutter.dev)  
+  
+- [Awesome Flutter](https://github.com/Solido/awesome-flutter) – recursos y paquetes destacados  
+  
 ## 🔗 Notas relacionadas
 
 - [[dart]] → [dart.md](/languages/dart.md)  
