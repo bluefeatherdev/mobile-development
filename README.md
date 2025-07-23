@@ -46,4 +46,12 @@ Cada carpeta contiene archivos Markdown (`.md`) con notas conectadas a través d
 - Elaborar un mapa útil para una visión clara del área de estudio
 - Definir términos y palabras claves del vocabulario de desarrollo de apps
 
+## 👨‍💻 Mis redes sociales
+
+[![Instagram](https://img.shields.io/badge/instagram-bluefeather.dev-FF0069?style=for-the-badge&logo=instagram&labelColor=101010)](https://www.instagram.com/bluefeather.dev)
+[![Threads](https://img.shields.io/badge/threads-bluefeather.dev-000000?style=for-the-badge&logo=threads&labelColor=101010)](https://www.threads.com/@bluefeather.dev)
+[![Bluesky](https://img.shields.io/badge/bluesky-bluefeatherdev-0285FF?style=for-the-badge&logo=bluesky&labelColor=101010)](https://bsky.app/profile/bluefeatherdev.bsky.social)
+[![X](https://img.shields.io/badge/x_(twitter)-bluefeatherdev-000000?style=for-the-badge&logo=x&labelColor=101010)](https://x.com/bluefeatherdev)
+[![YouTube](https://img.shields.io/badge/youtube-bluefeatherdev-FF0000?style=for-the-badge&logo=youtube&labelColor=101010)](https://www.youtube.com/@bluefeatherdev)
+
 > Made with '\u{2665}' (♥)
