@@ -1,6 +1,6 @@
 # Flutter en LinkInd
 
-## 🔍 Perfiles encontrados
+## 🔍 Perfiles encontrados (Colombia)
 
 ### 1. Desarrollador Full Stack Flutter - Java | XpertGroup
 
@@ -132,6 +132,8 @@ No es necesario, pero sería grandioso saber que cuentas con:
 - Habilidades adicionales: Experiencia trabajando con **Git** y **metodologías ágiles** (**Scrum/Kanban**).
 - Buenas prácticas en el desarrollo de código (**revisiones**, **pruebas unitarias**, **pruebas de integración**).
 - Conocimiento en herramientas como **Docker** o **Kubernetes**.
+
+## 🔍 Perfiles encontrados (?)
 
 ## 🥇 Tecnologías más solicitadas
 
