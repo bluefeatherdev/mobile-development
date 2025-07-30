@@ -1,5 +1,63 @@
 # Flutter en LinkInd
 
+## 🥇 Tecnologías más solicitadas
+
+- **Flutter** & **Dart**
+
+- **RESTful APIs**
+
+- **Firebase** (Authentication, Cloud Messaging, Analytics, etc.)
+
+- **Git** y control de versiones
+
+- **CI/CD** (GitHub Actions, pipelines, automatización de builds)
+
+- **GraphQL**
+
+- **Figma** (para diseño y UI/UX)
+
+- **Docker** y **Kubernetes**
+
+- **AWS** (Lambda, S3, Cognito, API Gateway, CloudWatch, etc.)
+
+- **PostgreSQL** y otras **bases de datos** relacionales/no relacionales
+
+Como complementos:
+
+- **Java**, **Kotlin** (para integración nativa Android)
+
+- **Swift**, **Objective-C** (para integración nativa iOS)
+
+- **HTML**, **CSS**, **JavaScript** (para perfiles con conocimientos frontend)
+
+## 👨‍💻 Conocimientos más solicitados
+
+- Arquitecturas en Flutter: **BLoC**, **Provider**, **Riverpod**, **MVVM**, **Clean Architecture**
+
+- **Inyección de dependencias**
+
+- Pruebas: **unitarias**, de **widgets** e **integración**
+
+- **Responsive** design y principios de **accesibilidad**
+
+- **Principios** de desarrollo: **SOLID**, **DRY**, **KISS**, **YAGNI**
+
+- **Manejo de estado**, **concurrencia** (Futures, Streams, Isolates)
+
+- Publicación en **App Store** y **Google Play**
+
+- **Seguridad** en apps móviles: **almacenamiento seguro**, **OWASP**, **autorización/autenticación**
+
+- **Colaboración** en equipos multidisciplinarios
+
+- Experiencia con **metodologías ágiles** (**Scrum**/**Kanban**)
+
+- Experiencia en **consultoría** o **entornos dinámicos**
+
+- Uso de **herramientas de monitoreo** como **Sentry** o **Firebase Crashlytics**
+
+- **Documentación técnica** (**Confluence** u otros)
+
 ## 🔍 Perfiles encontrados (Colombia)
 
 ### 1. Desarrollador Full Stack Flutter - Java | XpertGroup
@@ -134,64 +192,6 @@ No es necesario, pero sería grandioso saber que cuentas con:
 - Conocimiento en herramientas como **Docker** o **Kubernetes**.
 
 ## 🔍 Perfiles encontrados (?)
-
-## 🥇 Tecnologías más solicitadas
-
-- **Flutter** & **Dart**
-
-- **RESTful APIs**
-
-- **Firebase** (Authentication, Cloud Messaging, Analytics, etc.)
-
-- **Git** y control de versiones
-
-- **CI/CD** (GitHub Actions, pipelines, automatización de builds)
-
-- **GraphQL**
-
-- **Figma** (para diseño y UI/UX)
-
-- **Docker** y **Kubernetes**
-
-- **AWS** (Lambda, S3, Cognito, API Gateway, CloudWatch, etc.)
-
-- **PostgreSQL** y otras **bases de datos** relacionales/no relacionales
-
-Como complementos:
-
-- **Java**, **Kotlin** (para integración nativa Android)
-
-- **Swift**, **Objective-C** (para integración nativa iOS)
-
-- **HTML**, **CSS**, **JavaScript** (para perfiles con conocimientos frontend)
-
-## 👨‍💻 Conocimientos más solicitados
-
-- Arquitecturas en Flutter: **BLoC**, **Provider**, **Riverpod**, **MVVM**, **Clean Architecture**
-
-- **Inyección de dependencias**
-
-- Pruebas: **unitarias**, de **widgets** e **integración**
-
-- **Responsive** design y principios de **accesibilidad**
-
-- **Principios** de desarrollo: **SOLID**, **DRY**, **KISS**, **YAGNI**
-
-- **Manejo de estado**, **concurrencia** (Futures, Streams, Isolates)
-
-- Publicación en **App Store** y **Google Play**
-
-- **Seguridad** en apps móviles: **almacenamiento seguro**, **OWASP**, **autorización/autenticación**
-
-- **Colaboración** en equipos multidisciplinarios
-
-- Experiencia con **metodologías ágiles** (**Scrum**/**Kanban**)
-
-- Experiencia en **consultoría** o **entornos dinámicos**
-
-- Uso de **herramientas de monitoreo** como **Sentry** o **Firebase Crashlytics**
-
-- **Documentación técnica** (**Confluence** u otros)
 
 ## 🔗 Notas relacionadas
 
