@@ -73,6 +73,31 @@ Para publicar apps en la App Store necesitas:
 - Usa los simuladores para probar sin necesidad de un iPhone físico  
 - Activa el modo de rendimiento al usar simuladores en Macs con pocos recursos
 
+## 💡Xcode y Swift
+
+Con un solo proyecto (o pequeñas variaciones), puedes desarrollar apps para:
+
+| Plataforma       | OS       | Ejemplo de dispositivo        |
+| ---------------- | -------- | ----------------------------- |
+| iPhone           | iOS      | iPhone 15, iPhone SE          |
+| iPad             | iPadOS   | iPad Air, iPad Pro            |
+| Mac              | macOS    | MacBook, iMac, Mac Mini       |
+| Apple Watch      | watchOS  | Apple Watch Series 9          |
+| Apple TV         | tvOS     | Apple TV 4K                   |
+| Apple Vision Pro | visionOS | Dispositivo de realidad mixta |
+
+🧠 *Todo esto se puede manejar desde Xcode, y muchas veces compartiendo gran parte del código.*
+
+## 🧪 SwiftUI facilita aún más
+
+Con **SwiftUI**, puedes construir la interfaz solo una vez y Apple se encarga de adaptarla visualmente a:
+
+- Pantallas pequeñas (iPhone).
+
+- Pantallas medianas (iPad).
+- Pantallas grandes (Mac o Apple TV).
+- Interacción espacial (visionOS).
+
 ## 🔗 Notas relacionadas
 
 - [[ios]] → [ios.md](/os/ios.md)  
