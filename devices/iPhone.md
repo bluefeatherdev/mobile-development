@@ -559,6 +559,171 @@ En un destello de gloria de plástico de colores, el iPhone 5C llega a los merca
 - Diseño de vidrio y aluminio, disponible en Azul, Blanco, Negro, Amarillo, Coral y (PRODUCT)RED.  
 
 - Batería con mejor autonomía que el iPhone 8 Plus, gracias a la eficiencia del chip A12.  
+  
+## iPhone 11 – 20 de septiembre de 2019  
+
+![iPhone 11](https://www.siya-shop.com/wp-content/uploads/2023/05/IMG_4271.jpeg)  
+
+> Sucesor directo del iPhone XR, presentado junto a los modelos Pro y Pro Max. Se convirtió en uno de los iPhone más populares por su equilibrio entre precio y prestaciones, incorporando mejoras en cámara, rendimiento y autonomía.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Liquid Retina HD LCD de 6,1 pulgadas con resolución de 828 × 1792 px y densidad de 326 ppp.  
+
+- Almacenamiento interno de 64 GB, 128 GB o 256 GB (no expandible).  
+
+- Sistema de cámara dual trasera de 12 MP:  
+  - Gran angular f/1.8 con estabilización óptica (OIS).  
+  - Ultra gran angular f/2.4 con campo de visión de 120°.  
+  - Modo Noche, Deep Fusion y grabación de video 4K hasta 60 fps.  
+
+- Cámara frontal TrueDepth de 12 MP con grabación 4K y cámara lenta (Slofies).  
+
+- Procesador Apple A13 Bionic con Neural Engine de tercera generación.  
+
+- Sistema operativo: iOS 13 (actualizable hasta iOS 17).  
+
+- Conectividad: 4G LTE Advanced, Wi-Fi 6, Bluetooth 5.0 y Dual SIM (nano-SIM + eSIM).  
+
+- Resistencia al agua y polvo con certificación IP68 (hasta 2 metros por 30 min).  
+
+- Diseño de vidrio y aluminio, en colores: Morado, Verde, Amarillo, Negro, Blanco y (PRODUCT)RED.  
+
+- Batería con hasta 1 hora más de autonomía que el iPhone XR, compatible con carga rápida de 18W y carga inalámbrica Qi.  
+
+
+## iPhone 11 Pro – 20 de septiembre de 2019  
+
+![iPhone 11 Pro](https://tse4.mm.bing.net/th/id/OIP.e03KFTxhJzUi0ANYtmRqvwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)  
+
+> Presentado junto al iPhone 11 y el 11 Pro Max, este modelo marcó el inicio de la línea “Pro” en los iPhone, enfocada en usuarios que buscaban mayor potencia, fotografía avanzada y una pantalla superior.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 5,8 pulgadas con resolución de 1125 × 2436 px, HDR10 y Dolby Vision.  
+
+- Almacenamiento interno de 64 GB, 256 GB o 512 GB (no expandible).  
+
+- Sistema de triple cámara trasera de 12 MP:  
+  - Gran angular f/1.8 con estabilización óptica (OIS).  
+  - Ultra gran angular f/2.4 con campo de visión de 120°.  
+  - Teleobjetivo f/2.0 con OIS y zoom óptico 2x.  
+  - Soporte para modo Noche, Deep Fusion y grabación en 4K hasta 60 fps.  
+
+- Cámara frontal TrueDepth de 12 MP con grabación 4K y cámara lenta (Slofies).  
+
+- Procesador Apple A13 Bionic con Neural Engine de tercera generación.  
+
+- Sistema operativo: iOS 13 (actualizable hasta iOS 17).  
+
+- Conectividad: 4G LTE Advanced, Wi-Fi 6, Bluetooth 5.0 y Dual SIM (nano-SIM + eSIM).  
+
+- Resistencia al agua y polvo con certificación IP68 (hasta 4 metros por 30 min).  
+
+- Diseño de vidrio y acero inoxidable, en colores: Gris Espacial, Plata, Oro y Verde Medianoche.  
+
+- Batería con hasta 4 horas más de autonomía que el iPhone XS, compatible con carga rápida de 18W y carga inalámbrica Qi.  
+
+
+## iPhone 11 Pro Max – 20 de septiembre de 2019  
+
+![iPhone 11 Pro Max](https://tse2.mm.bing.net/th/id/OIP.lQQnnLuZF8K4eQ3YDw-GaQHaEb?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)  
+
+> Presentado junto al iPhone 11 y el iPhone 11 Pro, este modelo fue el más grande y avanzado de su generación, destacando por su batería de larga duración y su pantalla de gran tamaño.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,5 pulgadas con resolución de 1242 × 2688 px, HDR10 y Dolby Vision.  
+
+- Almacenamiento interno de 64 GB, 256 GB o 512 GB (no expandible).  
+
+- Sistema de triple cámara trasera de 12 MP:  
+  - Gran angular f/1.8 con estabilización óptica (OIS).  
+  - Ultra gran angular f/2.4 con campo de visión de 120°.  
+  - Teleobjetivo f/2.0 con OIS y zoom óptico 2x.  
+  - Soporte para modo Noche, Deep Fusion y grabación en 4K hasta 60 fps.  
+
+- Cámara frontal TrueDepth de 12 MP con grabación 4K y cámara lenta (Slofies).  
+
+- Procesador Apple A13 Bionic con Neural Engine de tercera generación.  
+
+- Sistema operativo: iOS 13 (actualizable hasta iOS 17).  
+
+- Conectividad: 4G LTE Advanced, Wi-Fi 6, Bluetooth 5.0 y Dual SIM (nano-SIM + eSIM).  
+
+- Resistencia al agua y polvo con certificación IP68 (hasta 4 metros por 30 min).  
+
+- Diseño en vidrio y acero inoxidable, disponible en: Gris Espacial, Plata, Oro y Verde Medianoche.  
+
+- Batería con hasta 5 horas más de autonomía que el iPhone XS Max, compatible con carga rápida de 18W y carga inalámbrica Qi.  
+
+## iPhone SE (2.ª generación) – 24 de abril de 2020  
+
+![iPhone SE (2020)](https://www.jqcomputer.com/wp-content/uploads/2020/08/iphone-se2-2020-JQ01118200001.jpg)  
+
+> Lanzado como el sucesor del iPhone SE original, este modelo retomó el diseño clásico del iPhone 8, pero con la potencia interna del iPhone 11, convirtiéndose en una opción más económica dentro del catálogo de Apple.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Retina HD LCD IPS de 4,7 pulgadas con resolución de 750 × 1334 px y soporte para True Tone y amplia gama de colores (P3).  
+
+- Almacenamiento interno de 64 GB, 128 GB o 256 GB (no expandible).  
+
+- Cámara trasera única de 12 MP f/1.8 con estabilización óptica (OIS), Smart HDR y grabación de video en 4K hasta 60 fps.  
+
+- Cámara frontal de 7 MP f/2.2 con grabación de video en 1080p a 30 fps y soporte para modo retrato con control de profundidad.  
+
+- Procesador Apple A13 Bionic con Neural Engine de tercera generación (el mismo del iPhone 11 y 11 Pro).  
+
+- Sistema operativo: iOS 13 (actualizable hasta iOS 17).  
+
+- Conectividad: 4G LTE Advanced, Wi-Fi 6, Bluetooth 5.0, NFC y Dual SIM (nano-SIM + eSIM).  
+
+- Diseño de vidrio y aluminio, con botón de inicio físico y Touch ID integrado.  
+
+- Resistencia al agua y polvo con certificación IP67 (hasta 1 metro por 30 min).  
+
+- Disponible en tres colores: Negro, Blanco y (PRODUCT)RED.  
+
+- Compatible con carga inalámbrica Qi y carga rápida de hasta 18 W.  
+
+- Batería con autonomía de hasta 13 horas de reproducción de video.  
+
+## iPhone 12 – 23 de octubre de 2020  
+
+![iPhone 12](https://t.ctcdn.com.br/yOqxStmZL5X-tguYhRHT6mB3EyU=/720x405/smart/i10354.png)  
+
+> Representó un rediseño completo con bordes planos, pantalla OLED en toda la línea y soporte para 5G. Fue uno de los modelos más populares de Apple, equilibrando innovación y precio.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,1 pulgadas con resolución de 2532 × 1170 px (460 ppi), compatible con HDR10 y Dolby Vision.  
+
+- Almacenamiento interno de 64 GB, 128 GB o 256 GB (no expandible).  
+
+- Sistema de doble cámara trasera de 12 MP:  
+  - Principal gran angular f/1.6 con OIS.  
+  - Ultra gran angular f/2.4 con campo de visión de 120°.  
+  - Compatible con Night Mode y Deep Fusion en ambas cámaras.  
+
+- Cámara frontal TrueDepth de 12 MP f/2.2 con grabación en 4K hasta 60 fps, selfies en modo nocturno y soporte para Animoji/Memoji con Face ID.  
+
+- Procesador Apple A14 Bionic con Neural Engine de 16 núcleos (primer chip de 5 nm en un smartphone).  
+
+- Sistema operativo: iOS 14 (actualizable hasta iOS 17).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.0, NFC y Dual SIM (nano-SIM + eSIM).  
+
+- Diseño de aluminio aeroespacial con parte trasera de vidrio y Ceramic Shield en la pantalla (4× más resistente a caídas).  
+
+- Resistencia al agua y polvo con certificación IP68 (hasta 6 metros por 30 min).  
+
+- Colores disponibles: Negro, Blanco, Azul, Verde y (PRODUCT)RED.  
+
+- Compatible con carga inalámbrica MagSafe (hasta 15 W) y Qi, además de carga rápida por cable (20 W).  
+
+- Batería con autonomía de hasta 17 horas de reproducción de video.  
+
 
 ## 🌐 Enlaces de interés
 
