@@ -1171,6 +1171,196 @@ En un destello de gloria de plástico de colores, el iPhone 5C llega a los merca
 
 - Batería con autonomía de hasta 29 horas de reproducción de video (la mayor de la serie 14).  
 
+## iPhone 15 – 22 de septiembre de 2023  
+
+![iPhone 15](https://cdni.autocarindia.com/Stuff/Uploads/ArticleImages/638192393923340254_638009222258779253_appleiphone14promax_15.jpg)  
+
+> Evolución del iPhone 14, ahora con USB-C, Dynamic Island en todos los modelos y una cámara principal de 48 MP.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,1 pulgadas con resolución de 2556 × 1179 px (460 ppi), compatible con HDR, True Tone y amplia gama de colores (P3).  
+  - Brillo máximo: 1000 nits (1600 nits HDR, 2000 nits en exteriores).  
+  - Dynamic Island.  
+  - Tasa de refresco de 60 Hz (sin ProMotion ni Always-On).  
+
+- Almacenamiento interno: 128 GB, 256 GB o 512 GB.  
+
+- Cámara trasera doble:  
+  - Principal de 48 MP f/1.6 con estabilización óptica.  
+  - Ultra gran angular de 12 MP f/2.4 con campo de visión de 120°.  
+  - Zoom óptico 2x (usando recorte del sensor principal).  
+  - Photonic Engine, Smart HDR 5, Deep Fusion, Modo Noche.  
+  - Grabación en 4K HDR Dolby Vision.  
+
+- Cámara frontal TrueDepth de 12 MP f/1.9 con autoenfoque, modo retrato mejorado y grabación en 4K HDR Dolby Vision.  
+
+- Procesador Apple A16 Bionic (heredado de la gama Pro del año anterior, 4 nm, CPU 6 núcleos, GPU 5 núcleos, Neural Engine 16 núcleos).  
+
+- Sistema operativo: iOS 17 (actualizable a posteriores versiones).  
+
+- Conectividad:  
+  - USB-C (USB 2.0, misma velocidad que Lightning).  
+  - 5G, Wi-Fi 6, Bluetooth 5.3, NFC, GPS de doble frecuencia.  
+  - Emergency SOS vía satélite, detección de choques.  
+
+- Dual SIM (nano-SIM + eSIM; en EE. UU. solo eSIM).  
+
+- Diseño con bordes redondeados, parte trasera de vidrio traslúcido con infusión de color y marco de aluminio.  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros durante 30 minutos).  
+
+- Colores disponibles: Negro, Azul, Verde, Amarillo, Rosa.  
+
+- Carga inalámbrica MagSafe (15 W) y Qi (7,5 W), además de carga rápida por cable (hasta 50% en ~30 min con adaptador de 20 W o superior).  
+
+- Batería con autonomía de hasta 20 horas de reproducción de video.  
+
+## iPhone 15 Plus – 22 de septiembre de 2023  
+
+![iPhone 15 Plus](https://www.digitaltrends.com/wp-content/uploads/2023/10/iphone-15-plus-logo.jpg?resize=1200%2C630&p=1)  
+
+> Versión de mayor tamaño del iPhone 15, con pantalla de 6,7" y batería más duradera, manteniendo las mejoras de cámara y USB-C.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,7 pulgadas con resolución de 2796 × 1290 px (460 ppi), compatible con HDR, True Tone y amplia gama de colores (P3).  
+  - Brillo máximo: 1000 nits (1600 nits HDR, 2000 nits en exteriores).  
+  - Dynamic Island.  
+  - Tasa de refresco de 60 Hz (sin ProMotion ni Always-On).  
+
+- Almacenamiento interno: 128 GB, 256 GB o 512 GB.  
+
+- Cámara trasera doble:  
+  - Principal de 48 MP f/1.6 con estabilización óptica.  
+  - Ultra gran angular de 12 MP f/2.4 con campo de visión de 120°.  
+  - Zoom óptico 2x (recorte del sensor principal).  
+  - Photonic Engine, Smart HDR 5, Deep Fusion, Modo Noche.  
+  - Grabación en 4K HDR Dolby Vision.  
+
+- Cámara frontal TrueDepth de 12 MP f/1.9 con autoenfoque, modo retrato mejorado y grabación en 4K HDR Dolby Vision.  
+
+- Procesador Apple A16 Bionic (4 nm, CPU 6 núcleos, GPU 5 núcleos, Neural Engine 16 núcleos).  
+
+- Sistema operativo: iOS 17 (actualizable a posteriores versiones).  
+
+- Conectividad:  
+  - USB-C (USB 2.0, misma velocidad que Lightning).  
+  - 5G, Wi-Fi 6, Bluetooth 5.3, NFC, GPS de doble frecuencia.  
+  - Emergency SOS vía satélite, detección de choques.  
+
+- Dual SIM (nano-SIM + eSIM; en EE. UU. solo eSIM).  
+
+- Diseño con bordes redondeados, parte trasera de vidrio traslúcido con infusión de color y marco de aluminio.  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros durante 30 minutos).  
+
+- Colores disponibles: Negro, Azul, Verde, Amarillo, Rosa.  
+
+- Carga inalámbrica MagSafe (15 W) y Qi (7,5 W), además de carga rápida por cable (hasta 50% en ~30 min con adaptador de 20 W o superior).  
+
+- Batería con autonomía de hasta 26 horas de reproducción de video (más duradera que el iPhone 15).  
+
+## iPhone 15 Pro – 22 de septiembre de 2023  
+
+![iPhone 15 Pro](https://cdn.mos.cms.futurecdn.net/HsEAit7Des3zfumdYRoNwi-970-80.jpg)  
+
+> Primer iPhone fabricado en titanio, con chip A17 Pro y puerto USB-C con velocidades profesionales.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,1 pulgadas con resolución de 2556 × 1179 px (460 ppi), HDR, True Tone y P3.  
+  - Dynamic Island.  
+  - Brillo máximo: 1000 nits (1600 HDR, 2000 exteriores).  
+  - ProMotion con tasa de refresco adaptativa de 1 Hz a 120 Hz.  
+  - Always-On Display.  
+
+- Almacenamiento interno: 128 GB, 256 GB, 512 GB o 1 TB.  
+
+- Cámara trasera triple:  
+  - Principal de 48 MP f/1.78 con estabilización óptica por desplazamiento del sensor (segunda generación).  
+  - Ultra gran angular de 12 MP f/2.2 con macro.  
+  - Teleobjetivo de 12 MP f/2.8 (zoom óptico 3x, solo en Pro; el 15 Pro Max trae 5x exclusivo).  
+  - Photonic Engine, Smart HDR 5, Deep Fusion, Modo Noche.  
+  - Grabación en ProRAW, ProRes 4K60 (con grabación directa a SSD vía USB-C).  
+
+- Cámara frontal TrueDepth de 12 MP f/1.9 con autoenfoque, Modo Retrato avanzado, grabación en 4K Dolby Vision HDR.  
+
+- Procesador Apple A17 Pro (3 nm, CPU 6 núcleos, GPU 6 núcleos con Ray Tracing, Neural Engine de 16 núcleos).  
+  - Primer chip de Apple con soporte para videojuegos AAA en iPhone.  
+
+- Sistema operativo: iOS 17 (actualizable).  
+
+- Conectividad:  
+  - USB-C con soporte USB 3 (10 Gbps, con cable compatible).  
+  - 5G, Wi-Fi 6E, Bluetooth 5.3, NFC, GPS doble frecuencia.  
+  - Emergency SOS vía satélite, detección de choques.  
+
+- Dual SIM (nano-SIM + eSIM; en EE. UU. solo eSIM).  
+
+- Diseño:  
+  - Marco de titanio con bordes más delgados y ligeros.  
+  - Vidrio trasero mate texturizado.  
+  - Nuevo botón de acción personalizable (reemplaza al switch de silencio).  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros por 30 minutos).  
+
+- Colores disponibles: Negro titanio, Blanco titanio, Azul titanio, Natural titanio.  
+
+- Carga inalámbrica MagSafe (15 W) y Qi (7,5 W), además de carga rápida por cable (hasta 50% en ~30 min con adaptador de 20 W o más).  
+
+- Batería: hasta 23 horas de reproducción de video.  
+
+## iPhone 15 Pro Max – 22 de septiembre de 2023  
+
+![iPhone 15 Pro Max](https://www.sihirlielma.com/wp-content/uploads/2023/11/iPhone-15-pro-max.jpg)  
+
+> Primer iPhone fabricado en titanio, con chip A17 Pro y puerto USB-C con velocidades profesionales.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,7 pulgadas con resolución de 2796 × 1290 px (460 ppi), HDR, True Tone y P3.  
+  - Dynamic Island.  
+  - Brillo máximo: 1000 nits (1600 HDR, 2000 exteriores).  
+  - ProMotion con tasa de refresco adaptativa de 1 Hz a 120 Hz.  
+  - Always-On Display.  
+
+- Almacenamiento interno: 256 GB, 512 GB o 1 TB (sin versión de 128 GB en el Pro Max).  
+
+- Cámara trasera triple:  
+  - Principal de 48 MP f/1.78 con estabilización óptica por desplazamiento del sensor (segunda generación).  
+  - Ultra gran angular de 12 MP f/2.2 con macro.  
+  - Teleobjetivo de 12 MP f/2.8 con zoom óptico exclusivo de 5x (solo en Pro Max).  
+  - Photonic Engine, Smart HDR 5, Deep Fusion, Modo Noche.  
+  - Grabación en ProRAW, ProRes 4K60 (con grabación directa a SSD vía USB-C).  
+
+- Cámara frontal TrueDepth de 12 MP f/1.9 con autoenfoque, Modo Retrato avanzado, grabación en 4K Dolby Vision HDR.  
+
+- Procesador Apple A17 Pro (3 nm, CPU 6 núcleos, GPU 6 núcleos con Ray Tracing, Neural Engine de 16 núcleos).  
+  - Primer chip de Apple con soporte para videojuegos AAA en iPhone.  
+
+- Sistema operativo: iOS 17 (actualizable).  
+
+- Conectividad:  
+  - USB-C con soporte USB 3 (10 Gbps, con cable compatible).  
+  - 5G, Wi-Fi 6E, Bluetooth 5.3, NFC, GPS doble frecuencia.  
+  - Emergency SOS vía satélite, detección de choques.  
+
+- Dual SIM (nano-SIM + eSIM; en EE. UU. solo eSIM).  
+
+- Diseño:  
+  - Marco de titanio con bordes más delgados y ligeros.  
+  - Vidrio trasero mate texturizado.  
+  - Nuevo botón de acción personalizable (reemplaza al switch de silencio).  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros por 30 minutos).  
+
+- Colores disponibles: Negro titanio, Blanco titanio, Azul titanio, Natural titanio.  
+
+- Carga inalámbrica MagSafe (15 W) y Qi (7,5 W), además de carga rápida por cable (hasta 50% en ~30 min con adaptador de 20 W o más).  
+
+- Batería: hasta 29 horas de reproducción de video (la mayor en un iPhone hasta la fecha).  
+
 
 ## 🌐 Enlaces de interés
 
