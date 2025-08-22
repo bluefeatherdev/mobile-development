@@ -441,6 +441,124 @@ En un destello de gloria de plástico de colores, el iPhone 5C llega a los merca
 
 - Diseño con parte trasera de vidrio y marco de aluminio, disponible en colores Plata, Gris espacial, Oro y (PRODUCT)RED.  
 
+## iPhone X – 3 de noviembre de 2017  
+
+![iPhone X](https://t.ctcdn.com.br/VOFDvI27yeAoLcFi2VgRG4L7Ckg=/1400x788/smart/i527014.jpeg)  
+
+> Marcó el décimo aniversario del iPhone y supuso un cambio radical en diseño y funciones, con pantalla sin marcos, reconocimiento facial Face ID y la eliminación del botón de inicio.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina HD OLED de 5,8 pulgadas con resolución de 1125 × 2436 px y densidad de 458 ppp.  
+
+- Almacenamiento interno de 64 GB o 256 GB (no expandible).  
+
+- Cámara trasera dual de 12 MP:  
+  - Gran angular f/1.8 con estabilización óptica de imagen (OIS).  
+  - Teleobjetivo f/2.4 también con OIS.  
+  - Grabación de video 4K hasta 60 fps y cámara lenta 1080p hasta 240 fps.  
+
+- Cámara frontal TrueDepth de 7 MP con grabación 1080p y soporte para Modo Retrato, Animoji y Face ID.  
+
+- Sistema operativo: iOS 11 (actualizable hasta iOS 16.7).  
+
+- Conectividad: LTE Advanced, Wi-Fi 802.11a/b/g/n/ac y Bluetooth 5.0.  
+
+- Procesador Apple A11 Bionic con motor neuronal y coprocesador M11.  
+
+- Eliminación del botón de inicio y adopción de gestos para la navegación.  
+
+- Diseño con pantalla de borde a borde, trasera de vidrio y marco de acero inoxidable, disponible en colores Plata y Gris espacial.  
+
+## iPhone XS – 21 de septiembre de 2018  
+
+![iPhone XS](https://tse4.mm.bing.net/th/id/OIP.APrp47Gc6Pn8Hagp3E16ygHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)  
+
+> Continuación del diseño introducido con el iPhone X, mejorando el rendimiento, las cámaras y la resistencia al agua. Fue presentado junto al iPhone XS Max y el iPhone XR.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina HD OLED de 5,8 pulgadas con resolución de 1125 × 2436 px y densidad de 458 ppp.  
+
+- Almacenamiento interno de 64 GB, 256 GB o 512 GB (no expandible).  
+
+- Cámara trasera dual de 12 MP:  
+  - Gran angular f/1.8 con estabilización óptica de imagen (OIS).  
+  - Teleobjetivo f/2.4 con OIS y zoom óptico 2x.  
+  - Grabación de video 4K hasta 60 fps y cámara lenta 1080p hasta 240 fps.  
+
+- Cámara frontal TrueDepth de 7 MP con grabación 1080p, Face ID y Modo Retrato avanzado.  
+
+- Sistema operativo: iOS 12 (actualizable hasta iOS 17).  
+
+- Conectividad: 4G LTE Advanced, Wi-Fi 802.11ac, Bluetooth 5.0 y soporte Dual SIM (nano-SIM + eSIM).  
+
+- Procesador Apple A12 Bionic con Neural Engine de segunda generación.  
+
+- Resistencia al agua y polvo con certificación IP68 (mejorada respecto al iPhone X).  
+
+- Diseño de vidrio y acero inoxidable, disponible en colores Plata, Gris espacial y el nuevo Dorado.  
+
+## iPhone XS Max – 21 de septiembre de 2018  
+
+![iPhone XS Max](https://o.aolcdn.com/images/dims?quality=100&image_uri=https://s.aolcdn.com/hss/storage/midas/be8deaf69ebb2e866257646588bb5999/206681111/IPHONE.jpg&client=amp-blogside-v2&signature=2e825ca996fd736b3f74c9a36a7bb87ea07cfa4d)  
+
+> Versión de mayor tamaño del iPhone XS, con la pantalla más grande hasta ese momento en un iPhone. Compartía la mayoría de las características con el XS estándar, pero con batería más grande y dimensiones superiores.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina HD OLED de 6,5 pulgadas con resolución de 1242 × 2688 px y densidad de 458 ppp.  
+
+- Almacenamiento interno de 64 GB, 256 GB o 512 GB (no expandible).  
+
+- Cámara trasera dual de 12 MP:  
+  - Gran angular f/1.8 con estabilización óptica de imagen (OIS).  
+  - Teleobjetivo f/2.4 con OIS y zoom óptico 2x.  
+  - Grabación de video 4K hasta 60 fps y cámara lenta 1080p hasta 240 fps.  
+
+- Cámara frontal TrueDepth de 7 MP con grabación 1080p, Face ID y Modo Retrato avanzado.  
+
+- Sistema operativo: iOS 12 (actualizable hasta iOS 17).  
+
+- Conectividad: 4G LTE Advanced, Wi-Fi 802.11ac, Bluetooth 5.0 y soporte Dual SIM (nano-SIM + eSIM).  
+
+- Procesador Apple A12 Bionic con Neural Engine de segunda generación.  
+
+- Resistencia al agua y polvo con certificación IP68.  
+
+- Diseño de vidrio y acero inoxidable, disponible en Plata, Gris espacial y Dorado.  
+
+- Batería más grande que la del XS, con mejor autonomía (hasta 1,5 horas más que el iPhone X).  
+
+## iPhone XR – 26 de octubre de 2018  
+
+![iPhone XR](https://www.macworld.com/wp-content/uploads/2021/03/apple_iphone_xr_3-up_3x2_a-100772035-orig-14.jpg?quality=50&strip=all&w=994)  
+
+> Modelo más accesible de la generación de 2018, presentado junto al iPhone XS y XS Max. Destacó por ofrecer características avanzadas a un precio menor, con más variedad de colores y una pantalla LCD Liquid Retina.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Liquid Retina HD LCD de 6,1 pulgadas con resolución de 828 × 1792 px y densidad de 326 ppp.  
+
+- Almacenamiento interno de 64 GB, 128 GB o 256 GB (no expandible).  
+
+- Cámara trasera única de 12 MP:  
+  - Gran angular f/1.8 con estabilización óptica de imagen (OIS).  
+  - Grabación de video 4K hasta 60 fps y cámara lenta 1080p hasta 240 fps.  
+
+- Cámara frontal TrueDepth de 7 MP con grabación 1080p, Face ID y Modo Retrato.  
+
+- Sistema operativo: iOS 12 (actualizable hasta iOS 17).  
+
+- Conectividad: 4G LTE Advanced, Wi-Fi 802.11ac, Bluetooth 5.0 y soporte Dual SIM (nano-SIM + eSIM).  
+
+- Procesador Apple A12 Bionic con Neural Engine de segunda generación.  
+
+- Resistencia al agua y polvo con certificación IP67.  
+
+- Diseño de vidrio y aluminio, disponible en Azul, Blanco, Negro, Amarillo, Coral y (PRODUCT)RED.  
+
+- Batería con mejor autonomía que el iPhone 8 Plus, gracias a la eficiencia del chip A12.  
 
 ## 🌐 Enlaces de interés
 
