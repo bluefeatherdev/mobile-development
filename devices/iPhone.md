@@ -214,6 +214,233 @@ En un destello de gloria de plástico de colores, el iPhone 5C llega a los merca
 
 - Carcasa de policarbonato disponible en cinco colores brillantes: azul, verde, rosa, amarillo y blanco.  
 
+## iPhone 6 – 19 de septiembre de 2014  
+
+![iPhone 6](https://tudecides.com.mx/images/Articulos_imagenes/2018/iphone6.jpg)
+
+> Fue el primer iPhone en incorporar la tecnología NFC para Apple Pay y marcó el salto a pantallas más grandes.  
+
+**Algunas especificaciones:**
+
+- Pantalla Retina HD de 4,7 pulgadas con resolución de 750 × 1334 px y densidad de 326 ppp.  
+
+- Almacenamiento interno de 16 GB, 32 GB, 64 GB o 128 GB (no expandible).  
+
+- Cámara trasera de 8 MP con apertura f/2.2, grabación de video Full HD 1080p a 60 fps y cámara lenta a 240 fps.  
+
+- Cámara frontal de 1,2 MP con grabación de video 720p.  
+
+- Sistema operativo: iOS 8 (posteriormente actualizable hasta iOS 12.5.7).  
+
+- Conectividad: LTE, Wi-Fi 802.11a/b/g/n (doble banda), NFC limitado a Apple Pay y Bluetooth 4.0.  
+
+- Procesador Apple A8 con coprocesador M8 y 1 GB de RAM.  
+
+- Diseño más delgado con bordes redondeados y carcasa de aluminio anodizado.  
+
+## iPhone 6 Plus – 19 de septiembre de 2014  
+
+![iPhone 6 Plus](https://img.unocero.com/2014/09/iphone6plus00.jpg)
+
+> Fue el primer iPhone en incluir estabilización óptica de imagen y dio inicio a la línea “Plus”, con pantallas más grandes orientadas al consumo multimedia.
+
+**Algunas especificaciones:**
+
+- Pantalla Retina HD de 5,5 pulgadas con resolución de 1080 × 1920 px y densidad de 401 ppp.  
+
+- Almacenamiento interno de 16 GB, 32 GB, 64 GB o 128 GB (no expandible).  
+
+- Cámara trasera de 8 MP con estabilización óptica de imagen (OIS), grabación de video Full HD 1080p a 60 fps y cámara lenta a 240 fps.  
+
+- Cámara frontal de 1,2 MP con grabación de video 720p.  
+
+- Sistema operativo: iOS 8 (posteriormente actualizable hasta iOS 12.5.7).  
+
+- Conectividad: LTE, Wi-Fi 802.11a/b/g/n (doble banda), NFC limitado a Apple Pay y Bluetooth 4.0.  
+
+- Procesador Apple A8 con coprocesador M8 y 1 GB de RAM.  
+
+- Diseño de aluminio anodizado con bordes redondeados, siendo el iPhone más grande hasta ese momento.
+
+## iPhone 6S – 25 de septiembre de 2015  
+
+![iPhone 6S](https://media.pasionmovil.com/2015/11/iPhone-6S.jpg)
+
+> Fue el primer iPhone en grabar video en 4K y en introducir la tecnología 3D Touch.  
+
+**Algunas especificaciones:**
+
+- Pantalla Retina HD de 4,7 pulgadas con resolución de 750 × 1334 px y densidad de 326 ppp, con tecnología 3D Touch.  
+
+- Almacenamiento interno de 16 GB, 32 GB, 64 GB o 128 GB (no expandible).  
+
+- Cámara trasera de 12 MP con grabación de video 4K a 30 fps y cámara lenta 1080p a 120 fps / 720p a 240 fps.  
+
+- Cámara frontal de 5 MP con grabación de video 720p y Retina Flash.  
+
+- Sistema operativo: iOS 9 (posteriormente actualizable hasta iOS 15.8).  
+
+- Conectividad: LTE Advanced, Wi-Fi 802.11a/b/g/n/ac y Bluetooth 4.2.  
+
+- Procesador Apple A9 con coprocesador M9 y 2 GB de RAM.  
+
+- Diseño de aluminio serie 7000 más resistente, disponible en nuevos colores como oro rosa.  
+
+## iPhone 6S Plus – 25 de septiembre de 2015  
+
+![iPhone 6S Plus](https://www.imore.com/sites/imore.com/files/styles/larger_wm_blw/public/field/image/2015/09/iphone-6s-rose-gold-back-demo.jpg?itok=WyTbnzWY)
+
+> Fue el primer modelo “Plus” en grabar en 4K y en ofrecer estabilización óptica tanto para fotos como para videos.
+ 
+**Algunas especificaciones:**
+
+- Pantalla Retina HD de 5,5 pulgadas con resolución de 1080 × 1920 px y densidad de 401 ppp, con tecnología 3D Touch.  
+
+- Almacenamiento interno de 16 GB, 32 GB, 64 GB o 128 GB (no expandible).  
+
+- Cámara trasera de 12 MP con estabilización óptica de imagen (OIS), grabación de video 4K a 30 fps y cámara lenta 1080p a 120 fps / 720p a 240 fps.  
+
+- Cámara frontal de 5 MP con grabación de video 720p y Retina Flash.  
+
+- Sistema operativo: iOS 9 (posteriormente actualizable hasta iOS 15.8).  
+
+- Conectividad: LTE Advanced, Wi-Fi 802.11a/b/g/n/ac y Bluetooth 4.2.  
+
+- Procesador Apple A9 con coprocesador M9 y 2 GB de RAM.  
+
+- Diseño de aluminio serie 7000 más resistente, disponible también en color oro rosa.   
+
+## iPhone SE (1.ª generación) – 31 de marzo de 2016  
+
+![iPhone SE (1.ª generación)](https://tse4.mm.bing.net/th/id/OIP._VrWswRKxCGrMtzeONTb-wHaEo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
+
+> Fue el iPhone más asequible de su época, pensado para quienes preferían un diseño compacto sin sacrificar potencia.  
+
+**Algunas especificaciones:**
+
+- Pantalla Retina de 4 pulgadas con resolución de 640 × 1136 px y densidad de 326 ppp.  
+
+- Almacenamiento interno de 16 GB, 32 GB, 64 GB o 128 GB (no expandible).  
+
+- Cámara trasera de 12 MP con grabación de video 4K a 30 fps y cámara lenta 1080p a 120 fps / 720p a 240 fps.  
+
+- Cámara frontal de 1,2 MP con grabación de video 720p y Retina Flash.  
+
+- Sistema operativo: iOS 9.3 (actualizable hasta iOS 15.8).  
+
+- Conectividad: LTE Advanced, Wi-Fi 802.11a/b/g/n/ac y Bluetooth 4.2.  
+
+- Procesador Apple A9 con coprocesador M9 y 2 GB de RAM.  
+
+- Diseño casi idéntico al iPhone 5S, pero con el hardware interno del iPhone 6S.  
+
+## iPhone 7 – 16 de septiembre de 2016  
+
+![iPhone 7](https://th.bing.com/th/id/R.a05d1e2edb13f9820c9fe79d135f505b?rik=cjlj9eWj1pMj0g&riu=http%3a%2f%2fimg.talkandroid.com%2fuploads%2f2016%2f12%2fapple_iphone_7_front_angled_TA.jpg&ehk=T%2fCMxRYzTY5vJ4cX%2bkd9pFJIrTPYHEbRStjcbdGqeyM%3d&risl=&pid=ImgRaw&r=0)  
+
+> Fue el primer iPhone en eliminar el puerto de auriculares de 3,5 mm y en introducir resistencia al agua y al polvo bajo certificación IP67.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Retina HD de 4,7 pulgadas con resolución de 750 × 1334 px y densidad de 326 ppp.  
+
+- Almacenamiento interno de 32 GB, 128 GB o 256 GB (no expandible).  
+
+- Cámara trasera de 12 MP con apertura f/1.8, estabilización óptica de imagen (OIS), grabación 4K a 30 fps y video en cámara lenta hasta 240 fps.  
+
+- Cámara frontal de 7 MP con grabación de video 1080p y Retina Flash.  
+
+- Sistema operativo: iOS 10 (actualizable hasta iOS 15.8).  
+
+- Conectividad: LTE Advanced, Wi-Fi 802.11a/b/g/n/ac y Bluetooth 4.2.  
+
+- Procesador Apple A10 Fusion con coprocesador M10 y 2 GB de RAM.  
+
+- Botón de inicio con respuesta háptica (sin mecanismo físico) mediante Taptic Engine.  
+
+- Resistencia al agua y al polvo con certificación IP67.  
+
+## iPhone 7 Plus – 16 de septiembre de 2016  
+
+![iPhone 7 Plus](https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/138760-phones-review-apple-iphone-7-plus-review-image17-rju34bgrjw.jpg)  
+
+> Fue el primer iPhone con sistema de doble cámara trasera, introduciendo el modo Retrato con efecto bokeh y zoom óptico 2x.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Retina HD de 5,5 pulgadas con resolución de 1080 × 1920 px y densidad de 401 ppp.  
+
+- Almacenamiento interno de 32 GB, 128 GB o 256 GB (no expandible).  
+
+- Doble cámara trasera de 12 MP: una gran angular f/1.8 con OIS y otra teleobjetivo f/2.8 con zoom óptico 2x; grabación 4K a 30 fps y cámara lenta hasta 240 fps.  
+
+- Cámara frontal de 7 MP con grabación de video 1080p y Retina Flash.  
+
+- Sistema operativo: iOS 10 (actualizable hasta iOS 15.8).  
+
+- Conectividad: LTE Advanced, Wi-Fi 802.11a/b/g/n/ac y Bluetooth 4.2.  
+
+- Procesador Apple A10 Fusion con coprocesador M10 y 3 GB de RAM.  
+
+- Botón de inicio con respuesta háptica mediante Taptic Engine (sin mecanismo físico).  
+
+- Resistencia al agua y al polvo con certificación IP67. 
+
+## iPhone 8 – 22 de septiembre de 2017  
+
+![iPhone 8](https://photos5.appleinsider.com/gallery/product_pages/99-hero.jpg)  
+
+> Introdujo el diseño de vidrio en la parte trasera, lo que permitió la carga inalámbrica, y trajo mejoras en rendimiento y fotografía.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Retina HD de 4,7 pulgadas con resolución de 750 × 1334 px y densidad de 326 ppp.  
+
+- Almacenamiento interno de 64 GB, 128 GB o 256 GB (no expandible).  
+
+- Cámara trasera de 12 MP con apertura f/1.8, estabilización óptica de imagen (OIS) y grabación de video 4K a 60 fps.  
+
+- Cámara frontal de 7 MP con grabación de video 1080p y Retina Flash.  
+
+- Sistema operativo: iOS 11 (actualizable hasta iOS 16.7).  
+
+- Conectividad: LTE Advanced, Wi-Fi 802.11a/b/g/n/ac y Bluetooth 5.0.  
+
+- Procesador Apple A11 Bionic con coprocesador M11 y 2 GB de RAM.  
+
+- Botón de inicio con Touch ID de segunda generación.  
+
+- Diseño con parte trasera de vidrio y marco de aluminio, disponible en colores Plata, Gris espacial, Oro y (PRODUCT)RED.  
+
+## iPhone 8 Plus – 22 de septiembre de 2017  
+
+![iPhone 8 Plus](https://www.showmetech.com.br/wp-content/uploads/2017/12/CF56462E-000D-41F2-AF95-C9A5FF7263F8-1536x1152.jpeg)  
+
+> Compartía el diseño de vidrio y carga inalámbrica del iPhone 8, pero añadía una pantalla más grande y un sistema de cámara dual.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Retina HD de 5,5 pulgadas con resolución de 1080 × 1920 px y densidad de 401 ppp.  
+
+- Almacenamiento interno de 64 GB, 128 GB o 256 GB (no expandible).  
+
+- Cámara trasera dual de 12 MP:  
+  - Gran angular f/1.8 con estabilización óptica de imagen (OIS).  
+  - Teleobjetivo f/2.8 con zoom óptico 2x.  
+  - Grabación de video 4K a 60 fps y cámara lenta 1080p a 240 fps.  
+
+- Cámara frontal de 7 MP con grabación de video 1080p y Retina Flash.  
+
+- Sistema operativo: iOS 11 (actualizable hasta iOS 16.7).  
+
+- Conectividad: LTE Advanced, Wi-Fi 802.11a/b/g/n/ac y Bluetooth 5.0.  
+
+- Procesador Apple A11 Bionic con coprocesador M11 y 3 GB de RAM.  
+
+- Botón de inicio con Touch ID de segunda generación.  
+
+- Diseño con parte trasera de vidrio y marco de aluminio, disponible en colores Plata, Gris espacial, Oro y (PRODUCT)RED.  
+
 
 ## 🌐 Enlaces de interés
 
