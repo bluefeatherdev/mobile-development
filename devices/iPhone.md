@@ -976,6 +976,201 @@ En un destello de gloria de plástico de colores, el iPhone 5C llega a los merca
 
 - Batería con autonomía de hasta 28 horas de reproducción de video, la más larga en un iPhone hasta ese momento.  
 
+## iPhone SE (3.ª generación) – 18 de marzo de 2022  
+
+![iPhone SE (3.ª generación)](https://m-cdn.phonearena.com/images/review/5346-wide-two_1200/iPhone-SE-3-Review-dj-vu.jpg)  
+
+> Un modelo compacto y más asequible que mantenía el diseño clásico con Touch ID, pero con el potente chip A15 Bionic y soporte para redes 5G.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Retina HD LCD de 4,7 pulgadas con resolución de 1334 × 750 px (326 ppi), compatible con True Tone, amplia gama de colores (P3) y brillo máximo de 625 nits.  
+
+- Almacenamiento interno de 64 GB, 128 GB o 256 GB.  
+
+- Cámara trasera única de 12 MP f/1.8 con estabilización óptica, Deep Fusion, Smart HDR 4, fotografía computacional avanzada y grabación de video en 4K hasta 60 fps.  
+
+- Cámara frontal de 7 MP f/2.2 con grabación en 1080p a 30 fps y soporte para HDR.  
+
+- Procesador Apple A15 Bionic (mismo chip de la serie iPhone 13) con GPU de 4 núcleos y Neural Engine de 16 núcleos.  
+
+- Sistema operativo: iOS 15 (actualizable a iOS 17 y posteriores).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.0, NFC con modo de lectura, GPS de doble banda y soporte Dual SIM (nano-SIM + eSIM).  
+
+- Diseño en vidrio y aluminio con protección frontal y trasera reforzada.  
+
+- Botón de inicio con Touch ID integrado.  
+
+- Resistencia al agua y polvo IP67 (hasta 1 metro durante 30 minutos).  
+
+- Colores disponibles: Medianoche, Blanco estelar y (PRODUCT)RED.  
+
+- Compatible con carga inalámbrica Qi y carga rápida por cable (hasta 20 W, 50% en 30 minutos).  
+
+- Batería con autonomía de hasta 15 horas de reproducción de video.  
+
+
+## iPhone 14 – 16 de septiembre de 2022  
+
+![iPhone 14](https://www.digitaltrends.com/wp-content/uploads/2022/09/iPhone-14-Pro-Back-Purple-Hand.jpg?fit=3000%2C2000&p=1)  
+
+> Una evolución del iPhone 13 con mejoras en seguridad y conectividad, como la detección de accidentes y la conexión satelital de emergencia, además de mejor rendimiento en fotografía nocturna.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,1 pulgadas con resolución de 2532 × 1170 px (460 ppi), compatible con HDR, True Tone, amplia gama de colores (P3) y brillo máximo de 800 nits (1200 nits en HDR).  
+
+- Almacenamiento interno de 128 GB, 256 GB o 512 GB.  
+
+- Cámara trasera dual de 12 MP:  
+  - Principal de 12 MP f/1.5 con estabilización óptica por desplazamiento de sensor.  
+  - Ultra gran angular de 12 MP f/2.4 y campo de visión de 120°.  
+  - Modo Noche, Deep Fusion, Smart HDR 4, Photonic Engine y grabación en 4K hasta 60 fps (HDR Dolby Vision).  
+
+- Cámara frontal TrueDepth de 12 MP f/1.9 con enfoque automático y grabación en 4K Dolby Vision HDR.  
+
+- Procesador Apple A15 Bionic (5 núcleos GPU, el mismo del iPhone 13 Pro).  
+
+- Sistema operativo: iOS 16 (actualizable a posteriores versiones).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.3, NFC, GPS de doble banda, Emergency SOS vía satélite y detección de choques.  
+
+- Compatible con Dual SIM (nano-SIM + eSIM; en EE. UU. solo eSIM).  
+
+- Diseño en vidrio y aluminio con Ceramic Shield en la parte frontal.  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros durante 30 minutos).  
+
+- Colores disponibles: Medianoche, Azul, Starlight, Púrpura y (PRODUCT)RED.  
+
+- Compatible con carga inalámbrica MagSafe (hasta 15 W) y Qi (hasta 7,5 W), además de carga rápida por cable (50% en ~30 min con adaptador de 20 W o superior).  
+
+- Batería con autonomía de hasta 20 horas de reproducción de video.  
+
+## iPhone 14 Plus – 7 de octubre de 2022  
+
+![iPhone 14 Plus](https://www.theapplepost.com/wp-content/uploads/2022/09/iPhone-14-iPhone-14-Plus-The-Apple-Post.jpg)  
+
+> Una versión más grande del iPhone 14, con la misma potencia y cámaras, pero con pantalla de 6,7" y mejor autonomía, pensado para quienes buscan más espacio visual y batería.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,7 pulgadas con resolución de 2778 × 1284 px (458 ppi), compatible con HDR, True Tone, amplia gama de colores (P3) y brillo máximo de 800 nits (1200 nits en HDR).  
+
+- Almacenamiento interno de 128 GB, 256 GB o 512 GB.  
+
+- Cámara trasera dual de 12 MP:  
+  - Principal de 12 MP f/1.5 con estabilización óptica por desplazamiento de sensor.  
+  - Ultra gran angular de 12 MP f/2.4 con campo de visión de 120°.  
+  - Modo Noche, Deep Fusion, Smart HDR 4, Photonic Engine y grabación en 4K hasta 60 fps (HDR Dolby Vision).  
+
+- Cámara frontal TrueDepth de 12 MP f/1.9 con autoenfoque y grabación en 4K Dolby Vision HDR.  
+
+- Procesador Apple A15 Bionic (5 núcleos GPU, mismo chip que en los iPhone 13 Pro).  
+
+- Sistema operativo: iOS 16 (actualizable a posteriores versiones).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.3, NFC, GPS de doble banda, Emergency SOS vía satélite y detección de choques.  
+
+- Compatible con Dual SIM (nano-SIM + eSIM; en EE. UU. solo eSIM).  
+
+- Diseño en vidrio y aluminio con Ceramic Shield en la parte frontal.  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros durante 30 minutos).  
+
+- Colores disponibles: Medianoche, Azul, Starlight, Púrpura y (PRODUCT)RED.  
+
+- Compatible con carga inalámbrica MagSafe (hasta 15 W) y Qi (hasta 7,5 W), además de carga rápida por cable (50% en ~30 min con adaptador de 20 W o superior).  
+
+- Batería con autonomía de hasta 26 horas de reproducción de video (una de las mejores en iPhone hasta ese momento).  
+
+## iPhone 14 Pro – 16 de septiembre de 2022  
+
+![iPhone 14 Pro](https://th.bing.com/th/id/R.702e4ac8d3cba72ecc1ade37827f1fdb?rik=3CD8cSkqJzh5Hw&pid=ImgRaw&r=0)  
+
+> Primer iPhone en introducir la **Dynamic Island** y la pantalla **Always-On**, con gran salto en fotografía gracias a la nueva cámara principal de 48 MP y el chip A16 Bionic.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,1 pulgadas con resolución de 2556 × 1179 px (460 ppi), compatible con HDR, True Tone, amplia gama de colores (P3).  
+  - Brillo máximo de 1000 nits (1600 nits HDR, 2000 nits en exteriores).  
+  - Tasa de refresco adaptativa ProMotion de 1 Hz a 120 Hz.  
+  - Always-On Display.  
+  - Dynamic Island (sustituye al notch con un área interactiva).  
+
+- Almacenamiento interno: 128 GB, 256 GB, 512 GB o 1 TB.  
+
+- Cámara trasera triple:  
+  - Principal de 48 MP f/1.78 con estabilización óptica por desplazamiento de sensor.  
+  - Ultra gran angular de 12 MP f/2.2 con campo de visión de 120°.  
+  - Teleobjetivo de 12 MP f/2.8 con zoom óptico 3x.  
+  - Nuevo Photonic Engine, Deep Fusion, Smart HDR 4.  
+  - Grabación en 4K HDR Dolby Vision, ProRAW y ProRes.  
+
+- Cámara frontal TrueDepth de 12 MP f/1.9 con autoenfoque y grabación en 4K HDR Dolby Vision.  
+
+- Procesador Apple A16 Bionic (fabricado en 4 nm, con CPU de 6 núcleos, GPU de 5 núcleos y Neural Engine de 16 núcleos).  
+
+- Sistema operativo: iOS 16 (actualizable a posteriores versiones).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.3, NFC, GPS de doble frecuencia, Emergency SOS vía satélite, detección de choques.  
+
+- Compatible con Dual SIM (nano-SIM + eSIM; en EE. UU. solo eSIM).  
+
+- Diseño en acero inoxidable quirúrgico con parte trasera de vidrio mate texturizado y Ceramic Shield en la parte frontal.  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros durante 30 minutos).  
+
+- Colores disponibles: Morado oscuro, Oro, Plata, Negro espacial.  
+
+- Compatible con carga inalámbrica MagSafe (hasta 15 W) y Qi (hasta 7,5 W), además de carga rápida por cable (50% en ~30 min con adaptador de 20 W o superior).  
+
+- Batería con autonomía de hasta 23 horas de reproducción de video.  
+
+## iPhone 14 Pro Max – 16 de septiembre de 2022  
+
+![iPhone 14 Pro Max](https://th.bing.com/th/id/R.53f373cd4d50245085f2a75528ce3b9c?rik=kN4GOM0r96DdyQ&riu=http%3a%2f%2fsurfa.se%2fwp-content%2fuploads%2f2022%2f09%2fApple-iPhone-14-Pro-Max-Recension-baksida-och-kamera-1080.jpg&ehk=aQ3rt2SCAnbXcwNoLZlYrHNzS8GGIwY9CH239o%2bSRI0%3d&risl=&pid=ImgRaw&r=0)  
+
+> Versión más grande del iPhone 14 Pro, con pantalla de 6,7 pulgadas, mayor autonomía y el mismo set de cámaras profesionales de 48 MP.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,7 pulgadas con resolución de 2796 × 1290 px (460 ppi), compatible con HDR, True Tone, amplia gama de colores (P3).  
+  - Brillo máximo de 1000 nits (1600 nits HDR, 2000 nits en exteriores).  
+  - Tasa de refresco adaptativa ProMotion de 1 Hz a 120 Hz.  
+  - Always-On Display.  
+  - Dynamic Island (área interactiva que sustituye al notch).  
+
+- Almacenamiento interno: 128 GB, 256 GB, 512 GB o 1 TB.  
+
+- Cámara trasera triple:  
+  - Principal de 48 MP f/1.78 con estabilización óptica por desplazamiento de sensor.  
+  - Ultra gran angular de 12 MP f/2.2 con campo de visión de 120°.  
+  - Teleobjetivo de 12 MP f/2.8 con zoom óptico 3x.  
+  - Photonic Engine, Deep Fusion, Smart HDR 4.  
+  - Grabación en 4K HDR Dolby Vision, ProRAW y ProRes.  
+
+- Cámara frontal TrueDepth de 12 MP f/1.9 con autoenfoque y grabación en 4K HDR Dolby Vision.  
+
+- Procesador Apple A16 Bionic (CPU de 6 núcleos, GPU de 5 núcleos, Neural Engine de 16 núcleos, fabricado en 4 nm).  
+
+- Sistema operativo: iOS 16 (actualizable a posteriores versiones).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.3, NFC, GPS de doble frecuencia, Emergency SOS vía satélite, detección de choques.  
+
+- Dual SIM (nano-SIM + eSIM; en EE. UU. solo eSIM).  
+
+- Diseño en acero inoxidable quirúrgico, parte trasera de vidrio mate texturizado y frontal con Ceramic Shield.  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros durante 30 minutos).  
+
+- Colores disponibles: Morado oscuro, Oro, Plata, Negro espacial.  
+
+- Carga inalámbrica MagSafe (hasta 15 W) y Qi (hasta 7,5 W), además de carga rápida por cable (50% en ~30 min con adaptador de 20 W o superior).  
+
+- Batería con autonomía de hasta 29 horas de reproducción de video (la mayor de la serie 14).  
+
 
 ## 🌐 Enlaces de interés
 
