@@ -1361,12 +1361,152 @@ En un destello de gloria de plástico de colores, el iPhone 5C llega a los merca
 
 - Batería: hasta 29 horas de reproducción de video (la mayor en un iPhone hasta la fecha).  
 
+## iPhone 16 – 9 de septiembre de 2024  
+
+![iPhone 16](https://cdn.mos.cms.futurecdn.net/WjWjrXHDGRdRGr4Sc3ekK4-1200-80.jpg)  
+
+> El **iPhone 16** fue presentado por Apple como parte de la nueva generación de smartphones, continuando la línea principal sin el apellido “Pro” o “Plus”. Se centra en ofrecer un equilibrio entre rendimiento, autonomía y accesibilidad frente a los modelos más avanzados.  
+
+- Pantalla OLED de 6,1 pulgadas con tecnología **Super Retina XDR**.  
+
+- Brillo máximo de hasta **2.000 nits** para exteriores.  
+
+- Procesador **A18**, con mejoras en eficiencia energética y rendimiento en multitarea.  
+
+- Sistema de cámara dual de **48 MP** (principal) + **12 MP** (ultra gran angular) con grabación en **4K HDR**.  
+
+- Mejoras en fotografía computacional con **Smart HDR 6** y modo Noche mejorado.  
+
+- Conectividad **5G** optimizada y soporte para **Wi-Fi 6E**.  
+
+- Autonomía mejorada con batería de mayor duración respecto al iPhone 15.  
+
+- Disponible en nuevos colores con acabados en aluminio reciclado.  
+
+- Compatible con **iOS 18** y funciones potenciadas por **Apple Intelligence** en los mercados compatibles.  
+
+## iPhone 16 Plus – 9 de septiembre de 2024 
+
+![iPhone 16 Plus](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243567.jpg?tf=2048x)  
+
+> El **iPhone 16 Plus** acompaña al iPhone 16, ofreciendo una pantalla más grande y una batería de mayor capacidad, manteniendo el equilibrio entre rendimiento y precio frente a los modelos Pro.  
+
+- Pantalla OLED de **6,7 pulgadas** con tecnología **Super Retina XDR**.  
+
+- Brillo máximo de hasta **2.000 nits** para exteriores.  
+
+- Procesador **A18**, con mejoras en eficiencia energética y potencia frente a la generación anterior.  
+
+- Sistema de cámara dual de **48 MP** (principal) + **12 MP** (ultra gran angular), con grabación en **4K HDR**.  
+
+- Fotografía computacional avanzada con **Smart HDR 6** y mejoras en el **modo Noche**.  
+
+- Conectividad **5G** optimizada y soporte para **Wi-Fi 6E**.  
+
+- Batería de mayor capacidad que el iPhone 16, ofreciendo la **mejor autonomía de la línea estándar**.  
+
+- Construcción en aluminio reciclado con nuevos colores disponibles.  
+
+- Compatible con **iOS 18** y funciones de **Apple Intelligence** en mercados soportados.  
+
+## iPhone 16 Pro – 9 de septiembre de 2024  
+
+![iPhone 16 Pro](https://static2.pisapapeles.net/uploads/2024/10/IMG_1862-scaled.jpeg) 
+
+> El **iPhone 16 Pro** marca un salto significativo en la línea Pro al introducir nuevos materiales y mejoras en cámara y potencia, consolidándose como un dispositivo de alto rendimiento para profesionales y entusiastas.  
+
+- Pantalla OLED de **6,3 pulgadas** con tecnología **Super Retina XDR**.  
+
+- Brillo máximo de hasta **2.000 nits** en exteriores y soporte para **ProMotion** (120 Hz adaptativos).  
+
+- Construcción en **titanio de segunda generación**, más ligero y resistente que el acero inoxidable.  
+
+- Procesador **A18 Pro**, con GPU optimizada para tareas de inteligencia artificial y gaming avanzado.  
+
+- Nuevo botón **Capture Button**, dedicado para fotografía y video con funciones personalizables.  
+
+- Sistema de cámaras triple:  
+  - **48 MP** (principal)  
+  - **48 MP** (ultra gran angular mejorado para fotografía macro)  
+  - **12 MP teleobjetivo** con zoom óptico 3x (5x en el modelo Pro Max).  
+
+- Grabación en **Apple ProRAW** y **ProRes 4K 60 fps** con soporte para grabación directa en SSD externo vía USB-C.  
+
+- Conectividad **USB-C con USB 3** (hasta 10 Gbps de transferencia).  
+
+- Compatible con **iOS 18** y las funciones de **Apple Intelligence** (en regiones soportadas).  
+
+- Nuevos colores exclusivos en acabados de titanio.  
+
+## iPhone 16 Pro Max – 9 de septiembre de 2024  
+
+![iPhone 16 Pro Max](https://cdn.mos.cms.futurecdn.net/wXANoGtdEEjrtdM7k4Nm3m.jpg) 
+
+> El **iPhone 16 Pro Max** es el modelo más avanzado de la serie, ofreciendo la pantalla más grande, mejor batería y el sistema de cámaras más potente de toda la generación.  
+
+- Pantalla OLED de **6,9 pulgadas** con tecnología **Super Retina XDR**.  
+
+- Brillo máximo de hasta **2.000 nits** en exteriores y tasa de refresco **ProMotion** de 120 Hz adaptativos.  
+
+- Diseño en **titanio de segunda generación**, más ligero y resistente que el acero inoxidable.  
+
+- Procesador **A18 Pro**, con rendimiento optimizado para inteligencia artificial, fotografía computacional y videojuegos exigentes.  
+
+- Nuevo **Capture Button**, integrado en el marco, para tomar fotos y grabar video con controles avanzados.  
+
+- Sistema de cámaras triple:  
+  - **48 MP (principal)** con mejor captura en baja luz.  
+  - **48 MP (ultra gran angular)** optimizado para fotografía macro.  
+  - **12 MP (teleobjetivo periscopio)** con **zoom óptico 5x exclusivo del modelo Pro Max**.  
+
+- Grabación en **Apple ProRAW** y **ProRes 4K 60 fps**, con soporte para grabación directa en SSD externo vía USB-C.  
+
+- Conectividad **USB-C con USB 3** (hasta 10 Gbps de transferencia de datos).  
+
+- Mayor autonomía de la serie, con la mejor batería en un iPhone hasta la fecha.  
+
+- Compatible con **iOS 18** y las funciones de **Apple Intelligence** (en regiones soportadas).  
+
+- Colores premium en acabados de titanio exclusivos para este modelo.  
+
+## iPhone 16e – 28 de febrero de 2025  
+
+![iPhone 16e](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRO_Qe_GVeCYdX7eX74FP1f2oFBnbPyR0sieFEU275NWdd0OfLcaGsV8L5IhvXyJqrsUtP0PO7rUBbPDPJEheiv3_1UjLyTwNw0WtD0JP7otQl4sApi8FYTO8cG6C155eWOFD-Q8FFdBW3XXJo4kRvapVdRxsrrsvGz59B0blAgfAJurYZKyL2LrJ-6Ok/s5712/iphone-16e-review-2025.jpg)
+
+> Modelo de entrada de la familia iPhone 16: prioriza autonomía y precio, mantiene el A18 y Apple Intelligence, pero recorta extras. Es el primer iPhone con módem “C1” diseñado por Apple.
+
+- Pantalla: Super Retina XDR OLED de 6,1" (2532 × 1170, 460 ppp), 800 nits típico / 1200 nits HDR, 60 Hz.
+    
+- Chip: Apple A18 (CPU 6 núcleos, GPU 4 núcleos, Neural Engine 16 núcleos) + módem Apple C1.  
+- Cámaras:  
+  - Trasera: 48 MP “2-en-1” (principal 26 mm f/1.6 con OIS + 2x “óptica” a 12 MP por recorte).  
+  - Frontal: TrueDepth 12 MP f/1.9 con AF y 4K Dolby Vision.  
+- Video: hasta 4K60 Dolby Vision; cámara lenta 1080p a 120/240 fps.  
+- Batería: hasta 26 h de reproducción de video (21 h en streaming). Carga rápida: 50% ~30 min con adaptador 20 W.  
+- Conectividad: 5G sub-6, Wi-Fi 6, Bluetooth 5.3, NFC; USB-C con USB 2 (480 Mb/s).  
+- SIM: Dual eSIM (sin bandeja para SIM física).  
+- Satélite: Emergency SOS, Mensajes, Find My y Asistencia en carretera por satélite.  
+- Resistencia: IP68 (hasta 6 m / 30 min).  
+- Diseño/otros: botón de acción configurable; Face ID; Haptic Touch.  
+- Colores: Negro, Blanco.  
+- Almacenamiento: 128 / 256 / 512 GB.  
+- Ausencias: sin MagSafe (aunque carga inalámbrica Qi) y sin Dynamic Island.  
+- Precio (desde): 599 USD.  
+
 
 ## 🌐 Enlaces de interés
 
 - [CNN - Estos son todos los iPhone de la historia (11/9/2023)](https://cnnespanol.cnn.com/2023/09/11/todos-iphone-de-la-historia-trax/)
 
-- abc
+- [Apple - Página oficial de iPhone](https://www.apple.com/iphone/)
+
+- [Xataka - Todos los iPhone de la historia](https://www.xataka.com/moviles/todos-los-iphone-de-la-historia)
+
+- [Wikipedia - Lista de modelos de iPhone](https://es.wikipedia.org/wiki/Anexo:Modelos_de_iPhone)
+
+- [Macworld - La evolución del iPhone año tras año](https://www.macworld.com/article/671093/the-history-of-the-iphone.html)
+
+- [The Verge - Apple’s iPhone timeline](https://www.theverge.com/21359859/apple-iphone-history-timeline-photos)
 
 
 ## 🔗 Notas relacionadas
