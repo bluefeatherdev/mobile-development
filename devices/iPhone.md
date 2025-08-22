@@ -724,6 +724,258 @@ En un destello de gloria de plástico de colores, el iPhone 5C llega a los merca
 
 - Batería con autonomía de hasta 17 horas de reproducción de video.  
 
+## iPhone 12 Pro – 23 de octubre de 2020  
+
+![iPhone 12 Pro](https://cdn.mos.cms.futurecdn.net/KqDLqPN86tSQ7XJVe7EMU6.jpg)  
+
+> Introdujo el sensor LiDAR en un iPhone, mejorando la fotografía en condiciones de baja luz y la realidad aumentada. Se distinguió por su construcción en acero inoxidable y su sistema de triple cámara.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,1 pulgadas con resolución de 2532 × 1170 px (460 ppi), compatible con HDR10 y Dolby Vision.  
+
+- Almacenamiento interno de 128 GB, 256 GB o 512 GB (no expandible).  
+
+- Sistema de triple cámara trasera de 12 MP:  
+  - Gran angular f/1.6 con OIS.  
+  - Ultra gran angular f/2.4 con campo de visión de 120°.  
+  - Teleobjetivo f/2.0 con zoom óptico 2×.  
+  - Soporte para Night Mode, Deep Fusion y Smart HDR 3 en todas las cámaras.  
+  - Escáner LiDAR para mejorar el enfoque automático en condiciones de poca luz y experiencias AR avanzadas.  
+
+- Cámara frontal TrueDepth de 12 MP f/2.2 con grabación 4K hasta 60 fps, compatible con Night Mode, Deep Fusion, Animoji y Face ID.  
+
+- Procesador Apple A14 Bionic con Neural Engine de 16 núcleos.  
+
+- Sistema operativo: iOS 14 (actualizable hasta iOS 17).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.0, NFC y Dual SIM (nano-SIM + eSIM).  
+
+- Diseño en acero inoxidable de grado quirúrgico y parte trasera de vidrio mate texturizado con Ceramic Shield en la pantalla.  
+
+- Resistencia al agua y polvo con certificación IP68 (hasta 6 metros por 30 min).  
+
+- Colores disponibles: Grafito, Plata, Oro y Azul Pacífico.  
+
+- Compatible con carga inalámbrica MagSafe (hasta 15 W) y Qi, además de carga rápida por cable (20 W).  
+
+- Batería con autonomía de hasta 17 horas de reproducción de video.  
+
+## iPhone 12 Pro Max – 13 de noviembre de 2020  
+
+![iPhone 12 Pro Max](https://fdn.gsmarena.com/imgroot/reviews/20/apple-iphone-12-pro-max/lifestyle/-1200w5/gsmarena_043.jpg)  
+
+> Fue el modelo más grande y avanzado de la serie iPhone 12, con mejoras en la cámara respecto al iPhone 12 Pro y una pantalla más amplia.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,7 pulgadas con resolución de 2778 × 1284 px (458 ppi), compatible con HDR10 y Dolby Vision.  
+
+- Almacenamiento interno de 128 GB, 256 GB o 512 GB (no expandible).  
+
+- Sistema de triple cámara trasera de 12 MP con mejoras exclusivas:  
+  - Gran angular f/1.6 con **estabilización por desplazamiento de sensor (sensor-shift OIS)**.  
+  - Ultra gran angular f/2.4 con campo de visión de 120°.  
+  - Teleobjetivo f/2.2 con zoom óptico 2.5× (mayor que el Pro estándar).  
+  - Soporte para Night Mode, Deep Fusion y Smart HDR 3 en todas las cámaras.  
+  - Escáner LiDAR para mejor enfoque en baja luz y AR.  
+
+- Cámara frontal TrueDepth de 12 MP f/2.2 con grabación 4K hasta 60 fps, Night Mode, Deep Fusion, Animoji y Face ID.  
+
+- Procesador Apple A14 Bionic con Neural Engine de 16 núcleos.  
+
+- Sistema operativo: iOS 14 (actualizable hasta iOS 17).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.0, NFC y Dual SIM (nano-SIM + eSIM).  
+
+- Diseño en acero inoxidable de grado quirúrgico y parte trasera de vidrio mate texturizado con Ceramic Shield en la pantalla.  
+
+- Resistencia al agua y polvo con certificación IP68 (hasta 6 metros por 30 min).  
+
+- Colores disponibles: Grafito, Plata, Oro y Azul Pacífico.  
+
+- Compatible con carga inalámbrica MagSafe (hasta 15 W) y Qi, además de carga rápida por cable (20 W).  
+
+- Batería con autonomía de hasta 20 horas de reproducción de video (la más grande de la serie 12).  
+
+## iPhone 12 mini – 13 de noviembre de 2020  
+
+![iPhone 12 mini](https://i.blogs.es/47ff20/iphone-12-mini-2-/1024_2000.jpg)  
+
+> Fue el modelo más pequeño de la serie iPhone 12 y el más compacto con conectividad 5G del mercado en su lanzamiento.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 5,4 pulgadas con resolución de 2340 × 1080 px (476 ppi), compatible con HDR10 y Dolby Vision.  
+
+- Almacenamiento interno de 64 GB, 128 GB o 256 GB (no expandible).  
+
+- Sistema de doble cámara trasera de 12 MP:  
+  - Gran angular f/1.6 con estabilización óptica (OIS).  
+  - Ultra gran angular f/2.4 con campo de visión de 120°.  
+  - Soporte para Night Mode, Deep Fusion y Smart HDR 3.  
+
+- Cámara frontal TrueDepth de 12 MP f/2.2 con grabación 4K hasta 60 fps, Night Mode, Deep Fusion, Animoji y Face ID.  
+
+- Procesador Apple A14 Bionic con Neural Engine de 16 núcleos.  
+
+- Sistema operativo: iOS 14 (actualizable hasta iOS 17).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.0, NFC y Dual SIM (nano-SIM + eSIM).  
+
+- Diseño en aluminio y vidrio con Ceramic Shield en la parte frontal.  
+
+- Resistencia al agua y polvo con certificación IP68 (hasta 6 metros por 30 min).  
+
+- Colores disponibles: Negro, Blanco, (PRODUCT)RED, Verde, Azul y Púrpura (añadido en 2021).  
+
+- Compatible con carga inalámbrica MagSafe (hasta 15 W) y Qi, además de carga rápida por cable (20 W).  
+
+- Batería con autonomía de hasta 15 horas de reproducción de video (la más baja de la serie 12, pero destacable para su tamaño).  
+
+## iPhone 13 – 24 de septiembre de 2021  
+
+![iPhone 13](https://media.idownloadblog.com/wp-content/uploads/2022/09/Green-iPhone-13-1200x800.jpg)  
+
+> Fue el sucesor directo del iPhone 12, manteniendo el diseño pero mejorando la autonomía, cámaras y potencia.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,1 pulgadas con resolución de 2532 × 1170 px (460 ppi), compatible con HDR10 y Dolby Vision.  
+
+- Almacenamiento interno de 128 GB, 256 GB o 512 GB (no expandible).  
+
+- Sistema de doble cámara trasera de 12 MP:  
+  - Gran angular f/1.6 con estabilización óptica por desplazamiento de sensor (Sensor-Shift OIS).  
+  - Ultra gran angular f/2.4 con campo de visión de 120°.  
+  - Mejoras en Night Mode, Deep Fusion y Smart HDR 4.  
+  - Nuevo modo Cinematic para grabar con profundidad de campo variable.  
+
+- Cámara frontal TrueDepth de 12 MP f/2.2 con grabación 4K hasta 60 fps, Night Mode y modo Cinematic.  
+
+- Procesador Apple A15 Bionic con GPU de 4 núcleos y Neural Engine de 16 núcleos.  
+
+- Sistema operativo: iOS 15 (actualizable hasta iOS 17 y posteriores).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.0, NFC y Dual SIM (nano-SIM + eSIM).  
+
+- Diseño en aluminio y vidrio con Ceramic Shield en la parte frontal.  
+
+- Resistencia al agua y polvo con certificación IP68 (hasta 6 metros por 30 min).  
+
+- Colores disponibles: Rosa, Azul, Medianoche, Blanco estelar, Rojo (PRODUCT)RED, y Verde (añadido en 2022).  
+
+- Compatible con carga inalámbrica MagSafe (hasta 15 W) y Qi, además de carga rápida por cable (20 W).  
+
+- Batería con autonomía de hasta 19 horas de reproducción de video (mejor que el iPhone 12).  
+
+## iPhone 13 mini – 24 de septiembre de 2021  
+
+![iPhone 13 mini](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22901260/vpavic_211004_4792_0005_Edit.jpg)  
+
+> Fue la segunda y última generación del modelo "mini". Aunque ofrecía las mismas prestaciones que el iPhone 13 en un formato más compacto, tuvo ventas limitadas debido a la preferencia por pantallas más grandes.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 5,4 pulgadas con resolución de 2340 × 1080 px (476 ppi), compatible con HDR10 y Dolby Vision.  
+
+- Almacenamiento interno de 128 GB, 256 GB o 512 GB (no expandible).  
+
+- Sistema de doble cámara trasera de 12 MP:  
+  - Gran angular f/1.6 con estabilización óptica por desplazamiento de sensor (Sensor-Shift OIS).  
+  - Ultra gran angular f/2.4 con campo de visión de 120°.  
+  - Funciones: Night Mode, Deep Fusion, Smart HDR 4 y modo Cinematic.  
+
+- Cámara frontal TrueDepth de 12 MP f/2.2 con grabación en 4K hasta 60 fps, Night Mode y modo Cinematic.  
+
+- Procesador Apple A15 Bionic con GPU de 4 núcleos y Neural Engine de 16 núcleos.  
+
+- Sistema operativo: iOS 15 (actualizable hasta iOS 17 y posteriores).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.0, NFC y Dual SIM (nano-SIM + eSIM).  
+
+- Diseño en aluminio y vidrio con Ceramic Shield en la parte frontal.  
+
+- Resistencia al agua y polvo con certificación IP68 (hasta 6 metros por 30 min).  
+
+- Colores disponibles: Rosa, Azul, Medianoche, Blanco estelar, Rojo (PRODUCT)RED, y Verde (añadido en 2022).  
+
+- Compatible con carga inalámbrica MagSafe (hasta 15 W) y Qi, además de carga rápida por cable (20 W).  
+
+- Batería con autonomía de hasta 17 horas de reproducción de video (menor que el iPhone 13, pero mayor que el 12 mini).  
+
+## iPhone 13 Pro – 24 de septiembre de 2021  
+
+![iPhone 13 Pro](https://storage.comprasmartphone.com/smartphones/apple-iphone-13-pro-2.jpg)  
+
+> Fue uno de los primeros iPhone en introducir la tecnología ProMotion con una tasa de refresco adaptable de hasta 120 Hz, mejorando notablemente la fluidez en animaciones y juegos.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,1 pulgadas con resolución de 2532 × 1170 px (460 ppi), compatible con HDR10, Dolby Vision y ProMotion (10–120 Hz adaptativos).  
+
+- Almacenamiento interno de 128 GB, 256 GB, 512 GB o 1 TB (primera vez que Apple ofreció 1 TB en un iPhone).  
+
+- Sistema de triple cámara trasera de 12 MP con mejoras avanzadas:  
+  - Gran angular f/1.5 con estabilización óptica por desplazamiento de sensor (Sensor-Shift OIS).  
+  - Ultra gran angular f/1.8 con campo de visión de 120° y modo macro.  
+  - Teleobjetivo f/2.8 con zoom óptico 3×.  
+  - Funciones: Night Mode en todas las cámaras, Deep Fusion, Smart HDR 4, Apple ProRAW, y grabación en ProRes hasta 4K 30 fps (limitado a 1080p 30 fps en 128 GB).  
+
+- Cámara frontal TrueDepth de 12 MP f/2.2 con grabación 4K hasta 60 fps, modo Cinematic y compatibilidad con Night Mode.  
+
+- Procesador Apple A15 Bionic con GPU de 5 núcleos (más potente que la versión del iPhone 13/13 mini) y Neural Engine de 16 núcleos.  
+
+- Sistema operativo: iOS 15 (actualizable a iOS 17 y posteriores).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.0, NFC, GPS de doble frecuencia y Dual SIM (nano-SIM + eSIM).  
+
+- Diseño en acero inoxidable quirúrgico y vidrio, con protección frontal Ceramic Shield.  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros durante 30 minutos).  
+
+- Colores disponibles: Grafito, Oro, Plata, Azul Sierra, y Verde alpino (añadido en 2022).  
+
+- Compatible con carga inalámbrica MagSafe (15 W), Qi, y carga rápida por cable (20 W).  
+
+- Batería con autonomía de hasta 22 horas de reproducción de video (una de las mejores de su generación).  
+
+## iPhone 13 Pro Max – 24 de septiembre de 2021  
+
+![iPhone 13 Pro Max](https://jablickar.cz/wp-content/uploads/2022/09/iPhone-14-Pro-Max-13-6-2048x1536.jpg)  
+
+> Fue el modelo más avanzado y con mayor autonomía de la serie iPhone 13, combinando la tecnología ProMotion de 120 Hz con una pantalla más grande y una batería de récord para su época.  
+
+**Algunas especificaciones:**  
+
+- Pantalla Super Retina XDR OLED de 6,7 pulgadas con resolución de 2778 × 1284 px (458 ppi), compatible con HDR10, Dolby Vision y ProMotion (10–120 Hz adaptativos).  
+
+- Almacenamiento interno de 128 GB, 256 GB, 512 GB o 1 TB (primera vez que Apple ofreció esta capacidad en un iPhone).  
+
+- Sistema de triple cámara trasera de 12 MP con mejoras significativas:  
+  - Gran angular f/1.5 con estabilización óptica por desplazamiento de sensor (Sensor-Shift OIS).  
+  - Ultra gran angular f/1.8 con campo de visión de 120° y soporte para fotografía macro.  
+  - Teleobjetivo f/2.8 con zoom óptico 3×.  
+  - Funciones: Night Mode en todas las cámaras, Smart HDR 4, Deep Fusion, Apple ProRAW, y grabación en ProRes hasta 4K 30 fps (limitado a 1080p en 128 GB).  
+
+- Cámara frontal TrueDepth de 12 MP f/2.2 con grabación en 4K hasta 60 fps, modo Cinematic y compatibilidad con Night Mode.  
+
+- Procesador Apple A15 Bionic con GPU de 5 núcleos (más potente que en los modelos 13 y 13 mini) y Neural Engine de 16 núcleos.  
+
+- Sistema operativo: iOS 15 (actualizable a iOS 17 y posteriores).  
+
+- Conectividad: 5G, Wi-Fi 6, Bluetooth 5.0, NFC, GPS de doble frecuencia y soporte Dual SIM (nano-SIM + eSIM).  
+
+- Diseño en acero inoxidable quirúrgico y vidrio, con protección frontal Ceramic Shield.  
+
+- Resistencia al agua y polvo IP68 (hasta 6 metros durante 30 minutos).  
+
+- Colores disponibles: Grafito, Plata, Oro, Azul Sierra, y Verde alpino (añadido en 2022).  
+
+- Compatible con carga inalámbrica MagSafe (15 W), Qi, y carga rápida por cable (20 W).  
+
+- Batería con autonomía de hasta 28 horas de reproducción de video, la más larga en un iPhone hasta ese momento.  
+
 
 ## 🌐 Enlaces de interés
 
